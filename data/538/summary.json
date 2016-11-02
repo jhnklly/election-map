@@ -1,0 +1,7733 @@
+[
+  {
+    "state": "AK",
+    "margin": {
+      "plus": {
+        "margin": -6.737463,
+        "hi": 6.820333,
+        "lo": -20.19933
+      },
+      "now": {
+        "margin": -6.004254,
+        "hi": 7.992317,
+        "lo": -20.05836
+      },
+      "polls": {
+        "margin": -5.892016,
+        "hi": 8.356436,
+        "lo": -20.17025
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0028407,
+      "now": 0.0069214,
+      "polls": 0.0035654
+    },
+    "roi": {
+      "plus": 1.248655,
+      "now": 3.042377,
+      "polls": 1.567202
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 24.240000000000002,
+            "forecast": 40.90846,
+            "hi": 48.40308,
+            "lo": 33.48545
+          },
+          "now": {
+            "winprob": 27.61,
+            "forecast": 40.93447,
+            "hi": 48.73903,
+            "lo": 33.14228
+          },
+          "polls": {
+            "winprob": 28.52,
+            "forecast": 41.30564,
+            "hi": 49.15154,
+            "lo": 33.36752
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 75.64999999999999,
+            "forecast": 47.64592,
+            "hi": 55.36172,
+            "lo": 39.70957
+          },
+          "now": {
+            "winprob": 72.34,
+            "forecast": 46.93872,
+            "hi": 54.91719,
+            "lo": 38.84087
+          },
+          "polls": {
+            "winprob": 71.44,
+            "forecast": 47.19765,
+            "hi": 55.25362,
+            "lo": 39.04713
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.11,
+            "forecast": 9.845691,
+            "hi": 15.96037,
+            "lo": 4.535318
+          },
+          "now": {
+            "winprob": 0.05,
+            "forecast": 10.53204,
+            "hi": 16.81345,
+            "lo": 5.078631
+          },
+          "polls": {
+            "winprob": 0.04,
+            "forecast": 9.896993,
+            "hi": 15.98857,
+            "lo": 4.513571
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 75.64999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 71.44,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 72.34,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004120
+  },
+  {
+    "state": "AL",
+    "margin": {
+      "plus": {
+        "margin": -22.87961,
+        "hi": -15.88035,
+        "lo": -29.97359
+      },
+      "now": {
+        "margin": -23.21843,
+        "hi": -16.07798,
+        "lo": -30.42718
+      },
+      "polls": {
+        "margin": -22.59984,
+        "hi": -15.16322,
+        "lo": -30.00566
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.08,
+            "forecast": 36.01701,
+            "hi": 39.78547,
+            "lo": 32.1443
+          },
+          "now": {
+            "winprob": 0.05,
+            "forecast": 35.7625,
+            "hi": 39.61234,
+            "lo": 31.94653
+          },
+          "polls": {
+            "winprob": 0.09,
+            "forecast": 36.16258,
+            "hi": 40.20105,
+            "lo": 32.17341
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.92,
+            "forecast": 58.89661,
+            "hi": 62.98845,
+            "lo": 54.6638
+          },
+          "now": {
+            "winprob": 99.95,
+            "forecast": 58.98093,
+            "hi": 63.20248,
+            "lo": 54.56941
+          },
+          "polls": {
+            "winprob": 99.91,
+            "forecast": 58.76242,
+            "hi": 63.06263,
+            "lo": 54.32537
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 3.332877,
+            "hi": 6.174493,
+            "lo": 1.039561
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 3.510779,
+            "hi": 6.3783,
+            "lo": 1.175613
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 3.321698,
+            "hi": 6.198054,
+            "lo": 1.016189
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.92,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.91,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.95,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004120
+  },
+  {
+    "state": "AR",
+    "margin": {
+      "plus": {
+        "margin": -18.7627,
+        "hi": -10.79375,
+        "lo": -26.6422
+      },
+      "now": {
+        "margin": -18.11096,
+        "hi": -9.972744,
+        "lo": -26.31536
+      },
+      "polls": {
+        "margin": -18.0584,
+        "hi": -9.663143,
+        "lo": -26.33962
+      }
+    },
+    "tippingpoint": {
+      "plus": 9.09e-05,
+      "now": 8.02e-05,
+      "polls": 0.0003282
+    },
+    "roi": {
+      "plus": 0.0113722,
+      "now": 0.0100405,
+      "polls": 0.0410679
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.43,
+            "forecast": 37.45263,
+            "hi": 41.76497,
+            "lo": 33.22166
+          },
+          "now": {
+            "winprob": 0.7000000000000001,
+            "forecast": 37.67738,
+            "hi": 42.11951,
+            "lo": 33.23053
+          },
+          "polls": {
+            "winprob": 0.95,
+            "forecast": 37.86076,
+            "hi": 42.32783,
+            "lo": 33.30804
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.56,
+            "forecast": 56.21533,
+            "hi": 60.96502,
+            "lo": 51.37006
+          },
+          "now": {
+            "winprob": 99.3,
+            "forecast": 55.78834,
+            "hi": 60.61438,
+            "lo": 50.85725
+          },
+          "polls": {
+            "winprob": 99.05000000000001,
+            "forecast": 55.91916,
+            "hi": 60.76429,
+            "lo": 50.87103
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 4.556797,
+            "hi": 8.077278,
+            "lo": 1.630151
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.766228,
+            "hi": 8.32045,
+            "lo": 1.821125
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.445138,
+            "hi": 7.93514,
+            "lo": 1.590556
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.56,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.05000000000001,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.3,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004120
+  },
+  {
+    "state": "AZ",
+    "margin": {
+      "plus": {
+        "margin": -2.194141,
+        "hi": 5.022541,
+        "lo": -9.339188
+      },
+      "now": {
+        "margin": -2.004449,
+        "hi": 5.379345,
+        "lo": -9.298927
+      },
+      "polls": {
+        "margin": -1.687724,
+        "hi": 5.886404,
+        "lo": -9.245667
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0265259,
+      "now": 0.0336602,
+      "polls": 0.0301071
+    },
+    "roi": {
+      "plus": 1.43484,
+      "now": 1.82075,
+      "polls": 1.628555
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 33.589999999999996,
+            "forecast": 45.52922,
+            "hi": 49.73577,
+            "lo": 41.27234
+          },
+          "now": {
+            "winprob": 35.480000000000004,
+            "forecast": 45.46707,
+            "hi": 49.76141,
+            "lo": 41.14509
+          },
+          "polls": {
+            "winprob": 38.18,
+            "forecast": 45.79214,
+            "hi": 50.16049,
+            "lo": 41.23211
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 66.4,
+            "forecast": 47.72337,
+            "hi": 52.00862,
+            "lo": 43.32401
+          },
+          "now": {
+            "winprob": 64.52,
+            "forecast": 47.47152,
+            "hi": 51.77507,
+            "lo": 43.06593
+          },
+          "polls": {
+            "winprob": 61.809999999999995,
+            "forecast": 47.47987,
+            "hi": 51.94173,
+            "lo": 43.0746
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 5.378107,
+            "hi": 9.109117,
+            "lo": 2.218821
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 5.700644,
+            "hi": 9.509548,
+            "lo": 2.457131
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 5.358617,
+            "hi": 9.126731,
+            "lo": 2.173469
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 66.4,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 61.809999999999995,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 64.52,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478005140
+  },
+  {
+    "state": "CA",
+    "margin": {
+      "plus": {
+        "margin": 23.37214,
+        "hi": 30.08305,
+        "lo": 16.63804
+      },
+      "now": {
+        "margin": 23.56907,
+        "hi": 30.58622,
+        "lo": 16.62874
+      },
+      "polls": {
+        "margin": 23.79008,
+        "hi": 31.01089,
+        "lo": 16.6132
+      }
+    },
+    "tippingpoint": {
+      "plus": 8.29e-07,
+      "now": 6.04e-09,
+      "polls": 0.0005807
+    },
+    "roi": {
+      "plus": 7.96e-06,
+      "now": 5.79e-08,
+      "polls": 0.0055706
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.95,
+            "forecast": 58.77269,
+            "hi": 62.87129,
+            "lo": 54.53624
+          },
+          "now": {
+            "winprob": 99.96000000000001,
+            "forecast": 58.71986,
+            "hi": 62.89645,
+            "lo": 54.45517
+          },
+          "polls": {
+            "winprob": 99.91,
+            "forecast": 58.97663,
+            "hi": 63.30466,
+            "lo": 54.48056
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.05,
+            "forecast": 35.40055,
+            "hi": 39.06326,
+            "lo": 31.69957
+          },
+          "now": {
+            "winprob": 0.04,
+            "forecast": 35.15079,
+            "hi": 38.8802,
+            "lo": 31.39812
+          },
+          "polls": {
+            "winprob": 0.09,
+            "forecast": 35.18655,
+            "hi": 38.97092,
+            "lo": 31.33897
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.231282,
+            "hi": 7.37802,
+            "lo": 1.599687
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.540843,
+            "hi": 7.770685,
+            "lo": 1.821113
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.241135,
+            "hi": 7.426023,
+            "lo": 1.593403
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 99.95,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 99.91,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 99.96000000000001,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478020920
+  },
+  {
+    "state": "CO",
+    "margin": {
+      "plus": {
+        "margin": 3.653315,
+        "hi": 10.93379,
+        "lo": -3.587185
+      },
+      "now": {
+        "margin": 3.622129,
+        "hi": 10.9919,
+        "lo": -3.628014
+      },
+      "polls": {
+        "margin": 3.994849,
+        "hi": 11.59344,
+        "lo": -3.601719
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.089857,
+      "now": 0.0709846,
+      "polls": 0.0768731
+    },
+    "roi": {
+      "plus": 4.353327,
+      "now": 3.439008,
+      "polls": 3.724291
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 75.21,
+            "forecast": 47.41551,
+            "hi": 51.83286,
+            "lo": 42.79374
+          },
+          "now": {
+            "winprob": 75.01,
+            "forecast": 47.10428,
+            "hi": 51.67267,
+            "lo": 42.39736
+          },
+          "polls": {
+            "winprob": 75.47,
+            "forecast": 47.53507,
+            "hi": 52.21535,
+            "lo": 42.68443
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 24.77,
+            "forecast": 43.7622,
+            "hi": 48.19062,
+            "lo": 39.26236
+          },
+          "now": {
+            "winprob": 24.959999999999997,
+            "forecast": 43.48215,
+            "hi": 47.95088,
+            "lo": 38.87992
+          },
+          "polls": {
+            "winprob": 24.5,
+            "forecast": 43.54023,
+            "hi": 48.00239,
+            "lo": 38.93979
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 7.598699,
+            "hi": 12.35153,
+            "lo": 3.51123
+          },
+          "now": {
+            "winprob": 0.03,
+            "forecast": 8.19738,
+            "hi": 12.93813,
+            "lo": 3.938753
+          },
+          "polls": {
+            "winprob": 0.03,
+            "forecast": 7.700804,
+            "hi": 12.37115,
+            "lo": 3.576717
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 75.21,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 75.47,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 75.01,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004120
+  },
+  {
+    "state": "CT",
+    "margin": {
+      "plus": {
+        "margin": 11.70175,
+        "hi": 19.81487,
+        "lo": 3.574097
+      },
+      "now": {
+        "margin": 11.14759,
+        "hi": 19.44337,
+        "lo": 2.786346
+      },
+      "polls": {
+        "margin": 11.69631,
+        "hi": 20.12184,
+        "lo": 3.150967
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0028189,
+      "now": 0.0069869,
+      "polls": 0.0041152
+    },
+    "roi": {
+      "plus": 0.2397006,
+      "now": 0.5941225,
+      "polls": 0.3499328
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 95.89999999999999,
+            "forecast": 52.99557,
+            "hi": 57.6281,
+            "lo": 48.2345
+          },
+          "now": {
+            "winprob": 95.13000000000001,
+            "forecast": 52.63319,
+            "hi": 57.39703,
+            "lo": 47.82954
+          },
+          "polls": {
+            "winprob": 95.42,
+            "forecast": 52.9956,
+            "hi": 57.78951,
+            "lo": 47.99382
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 4.1000000000000005,
+            "forecast": 41.29382,
+            "hi": 45.71199,
+            "lo": 36.7677
+          },
+          "now": {
+            "winprob": 4.87,
+            "forecast": 41.4856,
+            "hi": 46.08817,
+            "lo": 36.87551
+          },
+          "polls": {
+            "winprob": 4.58,
+            "forecast": 41.29929,
+            "hi": 45.96117,
+            "lo": 36.63165
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.220478,
+            "hi": 7.550115,
+            "lo": 1.45654
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.397576,
+            "hi": 7.776136,
+            "lo": 1.613675
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.21513,
+            "hi": 7.612023,
+            "lo": 1.453826
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 95.89999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 95.42,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 95.13000000000001,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004120
+  },
+  {
+    "state": "DC",
+    "margin": {
+      "plus": {
+        "margin": 71.53487,
+        "hi": 79.59596,
+        "lo": 63.10532
+      },
+      "now": {
+        "margin": 70.54578,
+        "hi": 79.04842,
+        "lo": 61.77615
+      },
+      "polls": {
+        "margin": 70.72556,
+        "hi": 79.3342,
+        "lo": 61.63754
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 100.0,
+            "forecast": 83.24487,
+            "hi": 88.20023,
+            "lo": 77.79675
+          },
+          "now": {
+            "winprob": 99.99,
+            "forecast": 82.78478,
+            "hi": 87.76454,
+            "lo": 77.29797
+          },
+          "polls": {
+            "winprob": 99.99,
+            "forecast": 82.88559,
+            "hi": 87.98959,
+            "lo": 77.23518
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 11.71,
+            "hi": 15.6228,
+            "lo": 7.977187
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 12.23901,
+            "hi": 16.41435,
+            "lo": 8.228519
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 12.16002,
+            "hi": 16.42664,
+            "lo": 8.171797
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 2.069793,
+            "hi": 4.272107,
+            "lo": 0.4413154
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 2.006878,
+            "hi": 4.104624,
+            "lo": 0.4504592
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 1.979372,
+            "hi": 4.083373,
+            "lo": 0.4204864
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 100.0,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 99.99,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 99.99,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004120
+  },
+  {
+    "state": "DE",
+    "margin": {
+      "plus": {
+        "margin": 11.86248,
+        "hi": 23.05781,
+        "lo": 0.6472073
+      },
+      "now": {
+        "margin": 11.29683,
+        "hi": 23.15655,
+        "lo": -0.5625629
+      },
+      "polls": {
+        "margin": 11.88729,
+        "hi": 23.47785,
+        "lo": -0.10853
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0039303,
+      "now": 0.0025035,
+      "polls": 0.0022493
+    },
+    "roi": {
+      "plus": 1.216423,
+      "now": 0.7748259,
+      "polls": 0.6961707
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 91.03999999999999,
+            "forecast": 52.86162,
+            "hi": 59.0658,
+            "lo": 46.56197
+          },
+          "now": {
+            "winprob": 88.94999999999999,
+            "forecast": 52.42956,
+            "hi": 58.88651,
+            "lo": 45.95914
+          },
+          "polls": {
+            "winprob": 89.79,
+            "forecast": 52.86481,
+            "hi": 59.22956,
+            "lo": 46.22536
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 8.959999999999999,
+            "forecast": 40.99915,
+            "hi": 47.06065,
+            "lo": 34.97617
+          },
+          "now": {
+            "winprob": 11.04,
+            "forecast": 41.13274,
+            "hi": 47.36843,
+            "lo": 34.74925
+          },
+          "polls": {
+            "winprob": 10.209999999999999,
+            "forecast": 40.97753,
+            "hi": 47.26986,
+            "lo": 34.84248
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.662815,
+            "hi": 8.501566,
+            "lo": 1.540859
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 4.964472,
+            "hi": 8.871805,
+            "lo": 1.764267
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.681231,
+            "hi": 8.541519,
+            "lo": 1.551245
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 91.03999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 89.79,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 88.94999999999999,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004180
+  },
+  {
+    "state": "FL",
+    "margin": {
+      "plus": {
+        "margin": -0.3119202,
+        "hi": 6.80261,
+        "lo": -7.28443
+      },
+      "now": {
+        "margin": -0.3054721,
+        "hi": 6.875443,
+        "lo": -7.432777
+      },
+      "polls": {
+        "margin": 0.0731165,
+        "hi": 7.499886,
+        "lo": -7.251225
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.1311749,
+      "now": 0.1385786,
+      "polls": 0.1712223
+    },
+    "roi": {
+      "plus": 1.89291,
+      "now": 1.999749,
+      "polls": 2.470811
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 47.18,
+            "forecast": 47.64774,
+            "hi": 51.52332,
+            "lo": 43.66064
+          },
+          "now": {
+            "winprob": 47.69,
+            "forecast": 47.56625,
+            "hi": 51.44833,
+            "lo": 43.62858
+          },
+          "polls": {
+            "winprob": 50.42,
+            "forecast": 47.84459,
+            "hi": 51.94034,
+            "lo": 43.74698
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 52.82,
+            "forecast": 47.95966,
+            "hi": 51.77348,
+            "lo": 44.00474
+          },
+          "now": {
+            "winprob": 52.31,
+            "forecast": 47.87172,
+            "hi": 51.7854,
+            "lo": 43.90221
+          },
+          "polls": {
+            "winprob": 49.58,
+            "forecast": 47.77148,
+            "hi": 51.77765,
+            "lo": 43.73956
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 3.126955,
+            "hi": 5.673456,
+            "lo": 1.076879
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 3.307964,
+            "hi": 5.853665,
+            "lo": 1.210263
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 3.118342,
+            "hi": 5.570032,
+            "lo": 1.081512
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 52.82,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 50.42,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 52.31,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478016360
+  },
+  {
+    "state": "GA",
+    "margin": {
+      "plus": {
+        "margin": -5.546345,
+        "hi": 1.054415,
+        "lo": -12.21204
+      },
+      "now": {
+        "margin": -5.317678,
+        "hi": 1.46347,
+        "lo": -12.07106
+      },
+      "polls": {
+        "margin": -4.992106,
+        "hi": 2.104979,
+        "lo": -12.0305
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.017226,
+      "now": 0.0143879,
+      "polls": 0.0190367
+    },
+    "roi": {
+      "plus": 0.5676331,
+      "now": 0.4741113,
+      "polls": 0.6273001
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 13.74,
+            "forecast": 44.81166,
+            "hi": 48.52282,
+            "lo": 41.11784
+          },
+          "now": {
+            "winprob": 14.92,
+            "forecast": 44.76799,
+            "hi": 48.50967,
+            "lo": 40.99523
+          },
+          "polls": {
+            "winprob": 17.4,
+            "forecast": 45.08289,
+            "hi": 49.03312,
+            "lo": 41.11723
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 86.26,
+            "forecast": 50.35801,
+            "hi": 54.144,
+            "lo": 46.47059
+          },
+          "now": {
+            "winprob": 85.08,
+            "forecast": 50.08567,
+            "hi": 53.93036,
+            "lo": 46.09695
+          },
+          "polls": {
+            "winprob": 82.6,
+            "forecast": 50.07499,
+            "hi": 54.06592,
+            "lo": 46.01227
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.830335,
+            "hi": 8.314682,
+            "lo": 1.915767
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 5.146335,
+            "hi": 8.705495,
+            "lo": 2.140348
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.842121,
+            "hi": 8.311256,
+            "lo": 1.91106
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 86.26,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 82.6,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 85.08,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004180
+  },
+  {
+    "state": "HI",
+    "margin": {
+      "plus": {
+        "margin": 24.26427,
+        "hi": 35.51345,
+        "lo": 13.03095
+      },
+      "now": {
+        "margin": 21.97125,
+        "hi": 33.55168,
+        "lo": 10.35602
+      },
+      "polls": {
+        "margin": 23.03084,
+        "hi": 35.06267,
+        "lo": 10.93497
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0002444,
+      "now": 0.0004506,
+      "polls": 0.0017959
+    },
+    "roi": {
+      "plus": 0.0726077,
+      "now": 0.1338575,
+      "polls": 0.5335421
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 98.92999999999999,
+            "forecast": 58.74027,
+            "hi": 65.06339,
+            "lo": 52.29155
+          },
+          "now": {
+            "winprob": 98.14,
+            "forecast": 57.37623,
+            "hi": 63.82507,
+            "lo": 50.74862
+          },
+          "polls": {
+            "winprob": 98.63,
+            "forecast": 58.0797,
+            "hi": 64.83614,
+            "lo": 51.26086
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 1.06,
+            "forecast": 34.47599,
+            "hi": 40.35493,
+            "lo": 28.57022
+          },
+          "now": {
+            "winprob": 1.8599999999999999,
+            "forecast": 35.40498,
+            "hi": 41.6342,
+            "lo": 29.32948
+          },
+          "polls": {
+            "winprob": 1.37,
+            "forecast": 35.04886,
+            "hi": 41.37268,
+            "lo": 28.80519
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 4.762428,
+            "hi": 8.701285,
+            "lo": 1.573574
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 5.197418,
+            "hi": 9.272789,
+            "lo": 1.871318
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.849887,
+            "hi": 8.88754,
+            "lo": 1.590481
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 98.92999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 98.63,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 98.14,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004180
+  },
+  {
+    "state": "IA",
+    "margin": {
+      "plus": {
+        "margin": -1.753761,
+        "hi": 5.946463,
+        "lo": -9.671352
+      },
+      "now": {
+        "margin": -2.143647,
+        "hi": 5.944494,
+        "lo": -9.969734
+      },
+      "polls": {
+        "margin": -1.724228,
+        "hi": 6.363626,
+        "lo": -9.867582
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0173136,
+      "now": 0.0202783,
+      "polls": 0.0183739
+    },
+    "roi": {
+      "plus": 1.456883,
+      "now": 1.706352,
+      "polls": 1.546102
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 37.7,
+            "forecast": 45.81171,
+            "hi": 50.21846,
+            "lo": 41.28437
+          },
+          "now": {
+            "winprob": 35.53,
+            "forecast": 45.40456,
+            "hi": 49.99533,
+            "lo": 40.8364
+          },
+          "polls": {
+            "winprob": 38.62,
+            "forecast": 45.78942,
+            "hi": 50.39327,
+            "lo": 41.08968
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 62.29,
+            "forecast": 47.56546,
+            "hi": 52.1088,
+            "lo": 42.92823
+          },
+          "now": {
+            "winprob": 64.45,
+            "forecast": 47.54821,
+            "hi": 52.08769,
+            "lo": 42.81549
+          },
+          "polls": {
+            "winprob": 61.370000000000005,
+            "forecast": 47.51366,
+            "hi": 52.08702,
+            "lo": 42.82749
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 5.39043,
+            "hi": 9.269435,
+            "lo": 2.153329
+          },
+          "now": {
+            "winprob": 0.02,
+            "forecast": 5.819652,
+            "hi": 9.814693,
+            "lo": 2.479267
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 5.464424,
+            "hi": 9.299434,
+            "lo": 2.220925
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 62.29,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 61.370000000000005,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 64.45,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004180
+  },
+  {
+    "state": "ID",
+    "margin": {
+      "plus": {
+        "margin": -21.56996,
+        "hi": -13.17258,
+        "lo": -30.05098
+      },
+      "now": {
+        "margin": -21.16578,
+        "hi": -12.1297,
+        "lo": -30.08278
+      },
+      "polls": {
+        "margin": -20.74016,
+        "hi": -11.61576,
+        "lo": -29.89466
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 3.59e-16,
+      "polls": 6.39e-12
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 7.03e-14,
+      "polls": 1.25e-09
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.42,
+            "forecast": 34.40737,
+            "hi": 39.14359,
+            "lo": 29.59319
+          },
+          "now": {
+            "winprob": 0.66,
+            "forecast": 34.30996,
+            "hi": 39.23232,
+            "lo": 29.31485
+          },
+          "polls": {
+            "winprob": 0.65,
+            "forecast": 34.77905,
+            "hi": 39.84821,
+            "lo": 29.69833
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.56,
+            "forecast": 55.97734,
+            "hi": 61.51657,
+            "lo": 50.27166
+          },
+          "now": {
+            "winprob": 99.33,
+            "forecast": 55.47574,
+            "hi": 61.14101,
+            "lo": 49.49476
+          },
+          "polls": {
+            "winprob": 99.33,
+            "forecast": 55.51921,
+            "hi": 61.27235,
+            "lo": 49.64465
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 7.704224,
+            "hi": 12.69683,
+            "lo": 3.340933
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 8.299449,
+            "hi": 13.34681,
+            "lo": 3.768421
+          },
+          "polls": {
+            "winprob": 0.02,
+            "forecast": 7.790453,
+            "hi": 12.87096,
+            "lo": 3.384435
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.56,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.33,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.33,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004180
+  },
+  {
+    "state": "IL",
+    "margin": {
+      "plus": {
+        "margin": 13.27296,
+        "hi": 20.29154,
+        "lo": 6.176662
+      },
+      "now": {
+        "margin": 13.58574,
+        "hi": 20.78332,
+        "lo": 6.522642
+      },
+      "polls": {
+        "margin": 13.75031,
+        "hi": 21.22897,
+        "lo": 6.198254
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0043768,
+      "now": 0.0015899,
+      "polls": 0.0027539
+    },
+    "roi": {
+      "plus": 0.1107047,
+      "now": 0.0402143,
+      "polls": 0.0696563
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 98.42,
+            "forecast": 53.69121,
+            "hi": 57.81181,
+            "lo": 49.43217
+          },
+          "now": {
+            "winprob": 98.77,
+            "forecast": 53.66949,
+            "hi": 57.93278,
+            "lo": 49.35295
+          },
+          "polls": {
+            "winprob": 98.61,
+            "forecast": 53.92312,
+            "hi": 58.24359,
+            "lo": 49.40723
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 1.58,
+            "forecast": 40.41825,
+            "hi": 44.35696,
+            "lo": 36.45403
+          },
+          "now": {
+            "winprob": 1.22,
+            "forecast": 40.08376,
+            "hi": 44.03276,
+            "lo": 36.06222
+          },
+          "polls": {
+            "winprob": 1.39,
+            "forecast": 40.17281,
+            "hi": 44.30742,
+            "lo": 36.02691
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.544127,
+            "hi": 7.8732,
+            "lo": 1.750475
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 4.905836,
+            "hi": 8.358925,
+            "lo": 2.017651
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.557638,
+            "hi": 7.840804,
+            "lo": 1.7598
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 98.42,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 98.61,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 98.77,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478011080
+  },
+  {
+    "state": "IN",
+    "margin": {
+      "plus": {
+        "margin": -10.72091,
+        "hi": -3.798079,
+        "lo": -17.62422
+      },
+      "now": {
+        "margin": -10.74395,
+        "hi": -3.569567,
+        "lo": -17.79763
+      },
+      "polls": {
+        "margin": -10.36172,
+        "hi": -3.114218,
+        "lo": -17.67036
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0027738,
+      "now": 0.0008625,
+      "polls": 0.0015312
+    },
+    "roi": {
+      "plus": 0.1393296,
+      "now": 0.0433222,
+      "polls": 0.0769148
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 3.2199999999999998,
+            "forecast": 41.12235,
+            "hi": 45.13506,
+            "lo": 37.08228
+          },
+          "now": {
+            "winprob": 3.55,
+            "forecast": 40.8953,
+            "hi": 44.97274,
+            "lo": 36.80026
+          },
+          "polls": {
+            "winprob": 4.02,
+            "forecast": 41.29212,
+            "hi": 45.44577,
+            "lo": 37.04491
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 96.76,
+            "forecast": 51.84327,
+            "hi": 56.05874,
+            "lo": 47.47849
+          },
+          "now": {
+            "winprob": 96.44,
+            "forecast": 51.63924,
+            "hi": 55.95923,
+            "lo": 47.1476
+          },
+          "polls": {
+            "winprob": 95.97,
+            "forecast": 51.65384,
+            "hi": 56.03625,
+            "lo": 47.17188
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 7.034385,
+            "hi": 11.5627,
+            "lo": 3.138801
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 7.465458,
+            "hi": 12.06803,
+            "lo": 3.460092
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 7.054047,
+            "hi": 11.6512,
+            "lo": 3.124591
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 96.76,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 95.97,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 96.44,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004180
+  },
+  {
+    "state": "KS",
+    "margin": {
+      "plus": {
+        "margin": -11.71181,
+        "hi": -3.762478,
+        "lo": -19.51655
+      },
+      "now": {
+        "margin": -10.89675,
+        "hi": -2.8771,
+        "lo": -18.91414
+      },
+      "polls": {
+        "margin": -10.75829,
+        "hi": -2.356216,
+        "lo": -19.01071
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0014596,
+      "now": 0.0009263,
+      "polls": 0.0001646
+    },
+    "roi": {
+      "plus": 0.1689198,
+      "now": 0.1071926,
+      "polls": 0.0190483
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 3.82,
+            "forecast": 39.48722,
+            "hi": 44.16066,
+            "lo": 34.829
+          },
+          "now": {
+            "winprob": 4.84,
+            "forecast": 39.55443,
+            "hi": 44.32706,
+            "lo": 34.80459
+          },
+          "polls": {
+            "winprob": 5.17,
+            "forecast": 39.93565,
+            "hi": 44.88786,
+            "lo": 34.99213
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 96.16,
+            "forecast": 51.19903,
+            "hi": 56.18266,
+            "lo": 45.99418
+          },
+          "now": {
+            "winprob": 95.14,
+            "forecast": 50.45117,
+            "hi": 55.59791,
+            "lo": 45.15456
+          },
+          "polls": {
+            "winprob": 94.8,
+            "forecast": 50.69394,
+            "hi": 55.83225,
+            "lo": 45.38435
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 7.599928,
+            "hi": 12.57978,
+            "lo": 3.382029
+          },
+          "now": {
+            "winprob": 0.02,
+            "forecast": 8.2862,
+            "hi": 13.37875,
+            "lo": 3.82736
+          },
+          "polls": {
+            "winprob": 0.03,
+            "forecast": 7.656508,
+            "hi": 12.59012,
+            "lo": 3.39348
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 96.16,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 94.8,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 95.14,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004240
+  },
+  {
+    "state": "KY",
+    "margin": {
+      "plus": {
+        "margin": -19.83317,
+        "hi": -12.53585,
+        "lo": -27.08072
+      },
+      "now": {
+        "margin": -19.65698,
+        "hi": -12.2571,
+        "lo": -26.98329
+      },
+      "polls": {
+        "margin": -19.19087,
+        "hi": -11.51748,
+        "lo": -26.8564
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 9.79e-09,
+      "polls": 4.53e-19
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 7.32e-07,
+      "polls": 3.39e-17
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.2,
+            "forecast": 37.10756,
+            "hi": 41.11055,
+            "lo": 33.06625
+          },
+          "now": {
+            "winprob": 0.32,
+            "forecast": 37.11351,
+            "hi": 41.17982,
+            "lo": 33.09373
+          },
+          "polls": {
+            "winprob": 0.36,
+            "forecast": 37.45502,
+            "hi": 41.60764,
+            "lo": 33.2433
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.8,
+            "forecast": 56.94073,
+            "hi": 61.32827,
+            "lo": 52.46392
+          },
+          "now": {
+            "winprob": 99.68,
+            "forecast": 56.7705,
+            "hi": 61.19246,
+            "lo": 52.19699
+          },
+          "polls": {
+            "winprob": 99.64,
+            "forecast": 56.6459,
+            "hi": 61.1655,
+            "lo": 52.0118
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.218307,
+            "hi": 7.561407,
+            "lo": 1.488312
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.388529,
+            "hi": 7.666381,
+            "lo": 1.642136
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.166784,
+            "hi": 7.41998,
+            "lo": 1.481997
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.8,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.64,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.68,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004240
+  },
+  {
+    "state": "LA",
+    "margin": {
+      "plus": {
+        "margin": -17.30199,
+        "hi": -10.38322,
+        "lo": -24.16921
+      },
+      "now": {
+        "margin": -17.45207,
+        "hi": -10.37135,
+        "lo": -24.59163
+      },
+      "polls": {
+        "margin": -16.92074,
+        "hi": -9.715086,
+        "lo": -24.1976
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 0.0004947,
+      "polls": 1.52e-05
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 0.032869,
+      "polls": 0.0010131
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.42,
+            "forecast": 38.73133,
+            "hi": 42.51397,
+            "lo": 34.91317
+          },
+          "now": {
+            "winprob": 0.38,
+            "forecast": 38.60017,
+            "hi": 42.43243,
+            "lo": 34.71554
+          },
+          "polls": {
+            "winprob": 0.76,
+            "forecast": 38.94269,
+            "hi": 42.8992,
+            "lo": 34.94028
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.58,
+            "forecast": 56.03333,
+            "hi": 60.04848,
+            "lo": 51.81747
+          },
+          "now": {
+            "winprob": 99.62,
+            "forecast": 56.05225,
+            "hi": 60.20439,
+            "lo": 51.86607
+          },
+          "polls": {
+            "winprob": 99.24,
+            "forecast": 55.86343,
+            "hi": 60.00567,
+            "lo": 51.64076
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 3.576057,
+            "hi": 6.456746,
+            "lo": 1.229599
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 3.694599,
+            "hi": 6.585377,
+            "lo": 1.331017
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 3.534854,
+            "hi": 6.415595,
+            "lo": 1.207341
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.58,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.24,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.62,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004240
+  },
+  {
+    "state": "MA",
+    "margin": {
+      "plus": {
+        "margin": 23.73319,
+        "hi": 31.52883,
+        "lo": 15.88098
+      },
+      "now": {
+        "margin": 24.23091,
+        "hi": 32.02837,
+        "lo": 16.28469
+      },
+      "polls": {
+        "margin": 24.2557,
+        "hi": 32.2545,
+        "lo": 16.03262
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0002861,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "roi": {
+      "plus": 0.0116121,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.88,
+            "forecast": 58.24513,
+            "hi": 62.97016,
+            "lo": 53.27705
+          },
+          "now": {
+            "winprob": 99.82,
+            "forecast": 58.28621,
+            "hi": 63.1292,
+            "lo": 53.19262
+          },
+          "polls": {
+            "winprob": 99.88,
+            "forecast": 58.47629,
+            "hi": 63.45276,
+            "lo": 53.27883
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.11,
+            "forecast": 34.51194,
+            "hi": 38.76706,
+            "lo": 30.21936
+          },
+          "now": {
+            "winprob": 0.18,
+            "forecast": 34.05529,
+            "hi": 38.39273,
+            "lo": 29.7662
+          },
+          "polls": {
+            "winprob": 0.12,
+            "forecast": 34.22059,
+            "hi": 38.58082,
+            "lo": 29.87689
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 5.602118,
+            "hi": 9.506489,
+            "lo": 2.252099
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 6.022477,
+            "hi": 10.0219,
+            "lo": 2.582274
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 5.662264,
+            "hi": 9.614896,
+            "lo": 2.304117
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 99.88,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 99.88,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 99.82,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004240
+  },
+  {
+    "state": "MD",
+    "margin": {
+      "plus": {
+        "margin": 27.33003,
+        "hi": 34.18872,
+        "lo": 20.35036
+      },
+      "now": {
+        "margin": 27.77753,
+        "hi": 34.77393,
+        "lo": 20.68457
+      },
+      "polls": {
+        "margin": 27.91809,
+        "hi": 35.24086,
+        "lo": 20.55201
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.96000000000001,
+            "forecast": 60.84333,
+            "hi": 65.01948,
+            "lo": 56.42275
+          },
+          "now": {
+            "winprob": 99.97,
+            "forecast": 60.93091,
+            "hi": 65.16731,
+            "lo": 56.46082
+          },
+          "polls": {
+            "winprob": 99.96000000000001,
+            "forecast": 61.1515,
+            "hi": 65.53497,
+            "lo": 56.47819
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.04,
+            "forecast": 33.51331,
+            "hi": 37.23615,
+            "lo": 29.77155
+          },
+          "now": {
+            "winprob": 0.03,
+            "forecast": 33.15338,
+            "hi": 36.99655,
+            "lo": 29.35533
+          },
+          "polls": {
+            "winprob": 0.04,
+            "forecast": 33.2334,
+            "hi": 37.1354,
+            "lo": 29.40303
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 3.990639,
+            "hi": 7.227578,
+            "lo": 1.40305
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.269521,
+            "hi": 7.548403,
+            "lo": 1.5844
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 3.962563,
+            "hi": 7.148361,
+            "lo": 1.397779
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 99.96000000000001,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 99.96000000000001,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 99.97,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004240
+  },
+  {
+    "state": "ME",
+    "margin": {
+      "plus": {
+        "margin": 7.268159,
+        "hi": 17.74677,
+        "lo": -3.154945
+      },
+      "now": {
+        "margin": 6.955137,
+        "hi": 17.8218,
+        "lo": -3.793528
+      },
+      "polls": {
+        "margin": 7.190894,
+        "hi": 18.03072,
+        "lo": -3.989145
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0041455,
+      "now": 0.0049302,
+      "polls": 0.0078076
+    },
+    "roi": {
+      "plus": 0.7726894,
+      "now": 0.9189568,
+      "polls": 1.455289
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 81.89999999999999,
+            "forecast": 49.91431,
+            "hi": 55.80373,
+            "lo": 43.93977
+          },
+          "now": {
+            "winprob": 80.92,
+            "forecast": 49.61784,
+            "hi": 55.6595,
+            "lo": 43.58521
+          },
+          "polls": {
+            "winprob": 80.66,
+            "forecast": 49.89993,
+            "hi": 55.91989,
+            "lo": 43.67857
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 18.08,
+            "forecast": 42.64615,
+            "hi": 48.41788,
+            "lo": 36.88119
+          },
+          "now": {
+            "winprob": 19.07,
+            "forecast": 42.66271,
+            "hi": 48.609,
+            "lo": 36.77561
+          },
+          "polls": {
+            "winprob": 19.33,
+            "forecast": 42.70904,
+            "hi": 48.65488,
+            "lo": 36.70506
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 6.009149,
+            "hi": 10.24204,
+            "lo": 2.45888
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 6.294955,
+            "hi": 10.45442,
+            "lo": 2.696058
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 5.960792,
+            "hi": 10.07479,
+            "lo": 2.440159
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 81.89999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 80.66,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 80.92,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478009580
+  },
+  {
+    "state": "ME1",
+    "margin": {
+      "plus": {
+        "margin": 13.75341,
+        "hi": 26.11645,
+        "lo": 1.215624
+      },
+      "now": {
+        "margin": 13.34133,
+        "hi": 26.15862,
+        "lo": 0.4274921
+      },
+      "polls": {
+        "margin": 13.70905,
+        "hi": 26.86035,
+        "lo": 0.3951492
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0010136,
+      "now": 0.0007874,
+      "polls": 0.001043
+    },
+    "roi": {
+      "plus": 0.3585963,
+      "now": 0.2785625,
+      "polls": 0.3689747
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 91.7,
+            "forecast": 53.39955,
+            "hi": 60.19654,
+            "lo": 46.45341
+          },
+          "now": {
+            "winprob": 90.59,
+            "forecast": 53.09097,
+            "hi": 60.22314,
+            "lo": 45.86716
+          },
+          "polls": {
+            "winprob": 90.52,
+            "forecast": 53.41008,
+            "hi": 60.61367,
+            "lo": 46.02803
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 8.27,
+            "forecast": 39.64613,
+            "hi": 46.34491,
+            "lo": 33.01812
+          },
+          "now": {
+            "winprob": 9.41,
+            "forecast": 39.74963,
+            "hi": 46.70016,
+            "lo": 33.05891
+          },
+          "polls": {
+            "winprob": 9.46,
+            "forecast": 39.70103,
+            "hi": 46.75893,
+            "lo": 32.69366
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.03,
+            "forecast": 5.389716,
+            "hi": 9.550177,
+            "lo": 1.90917
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 5.602569,
+            "hi": 9.819962,
+            "lo": 2.085538
+          },
+          "polls": {
+            "winprob": 0.02,
+            "forecast": 5.324497,
+            "hi": 9.539013,
+            "lo": 1.898292
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 91.7,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 90.52,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 90.59,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478010060
+  },
+  {
+    "state": "ME2",
+    "margin": {
+      "plus": {
+        "margin": 0.1257877,
+        "hi": 13.35238,
+        "lo": -13.10604
+      },
+      "now": {
+        "margin": -0.066025,
+        "hi": 13.66547,
+        "lo": -13.58278
+      },
+      "polls": {
+        "margin": 0.013688,
+        "hi": 14.05797,
+        "lo": -14.10987
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0036775,
+      "now": 0.0048112,
+      "polls": 0.0037267
+    },
+    "roi": {
+      "plus": 1.448773,
+      "now": 1.895423,
+      "polls": 1.468179
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 50.86000000000001,
+            "forecast": 46.07295,
+            "hi": 53.30678,
+            "lo": 38.91353
+          },
+          "now": {
+            "winprob": 49.559999999999995,
+            "forecast": 45.79543,
+            "hi": 53.32837,
+            "lo": 38.39339
+          },
+          "polls": {
+            "winprob": 49.99,
+            "forecast": 46.03175,
+            "hi": 53.63083,
+            "lo": 38.37587
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 49.120000000000005,
+            "forecast": 45.94716,
+            "hi": 53.13587,
+            "lo": 38.71407
+          },
+          "now": {
+            "winprob": 50.42,
+            "forecast": 45.86145,
+            "hi": 53.20784,
+            "lo": 38.44811
+          },
+          "polls": {
+            "winprob": 49.99,
+            "forecast": 46.01806,
+            "hi": 53.64952,
+            "lo": 38.45653
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 6.698947,
+            "hi": 11.50643,
+            "lo": 2.566785
+          },
+          "now": {
+            "winprob": 0.02,
+            "forecast": 7.065993,
+            "hi": 11.98417,
+            "lo": 2.886879
+          },
+          "polls": {
+            "winprob": 0.02,
+            "forecast": 6.669366,
+            "hi": 11.45527,
+            "lo": 2.580829
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 50.86000000000001,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 49.99,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 50.42,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478010060
+  },
+  {
+    "state": "MI",
+    "margin": {
+      "plus": {
+        "margin": 4.500006,
+        "hi": 11.53063,
+        "lo": -2.552088
+      },
+      "now": {
+        "margin": 4.236081,
+        "hi": 11.41416,
+        "lo": -3.080818
+      },
+      "polls": {
+        "margin": 4.658423,
+        "hi": 11.90716,
+        "lo": -2.703825
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.1153208,
+      "now": 0.1236906,
+      "polls": 0.106527
+    },
+    "roi": {
+      "plus": 3.20799,
+      "now": 3.44082,
+      "polls": 2.963364
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 80.28999999999999,
+            "forecast": 48.68148,
+            "hi": 52.87994,
+            "lo": 44.30703
+          },
+          "now": {
+            "winprob": 79.03,
+            "forecast": 48.32515,
+            "hi": 52.69145,
+            "lo": 43.96944
+          },
+          "polls": {
+            "winprob": 79.86,
+            "forecast": 48.72691,
+            "hi": 53.06811,
+            "lo": 44.18455
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 19.689999999999998,
+            "forecast": 44.18147,
+            "hi": 48.31707,
+            "lo": 39.94382
+          },
+          "now": {
+            "winprob": 20.96,
+            "forecast": 44.08907,
+            "hi": 48.31925,
+            "lo": 39.79685
+          },
+          "polls": {
+            "winprob": 20.119999999999997,
+            "forecast": 44.06848,
+            "hi": 48.36092,
+            "lo": 39.6701
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 5.811975,
+            "hi": 9.835455,
+            "lo": 2.440324
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 6.267229,
+            "hi": 10.34054,
+            "lo": 2.776006
+          },
+          "polls": {
+            "winprob": 0.02,
+            "forecast": 5.879719,
+            "hi": 9.874338,
+            "lo": 2.47635
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 80.28999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 79.86,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 79.03,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478018040
+  },
+  {
+    "state": "MN",
+    "margin": {
+      "plus": {
+        "margin": 5.264401,
+        "hi": 12.74127,
+        "lo": -2.150053
+      },
+      "now": {
+        "margin": 5.433073,
+        "hi": 12.71754,
+        "lo": -2.050308
+      },
+      "polls": {
+        "margin": 5.642006,
+        "hi": 13.28741,
+        "lo": -2.286503
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0398295,
+      "now": 0.0428291,
+      "polls": 0.0405658
+    },
+    "roi": {
+      "plus": 1.775565,
+      "now": 1.909287,
+      "polls": 1.808391
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 81.97,
+            "forecast": 49.17151,
+            "hi": 53.53509,
+            "lo": 44.67897
+          },
+          "now": {
+            "winprob": 83.22,
+            "forecast": 49.00459,
+            "hi": 53.41878,
+            "lo": 44.509
+          },
+          "polls": {
+            "winprob": 83.22,
+            "forecast": 49.34516,
+            "hi": 53.88507,
+            "lo": 44.62012
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 18.02,
+            "forecast": 43.90711,
+            "hi": 48.23563,
+            "lo": 39.50588
+          },
+          "now": {
+            "winprob": 16.77,
+            "forecast": 43.57152,
+            "hi": 47.92656,
+            "lo": 39.20397
+          },
+          "polls": {
+            "winprob": 16.77,
+            "forecast": 43.70316,
+            "hi": 48.16891,
+            "lo": 39.19849
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 5.657969,
+            "hi": 9.606126,
+            "lo": 2.314493
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 6.16364,
+            "hi": 10.21026,
+            "lo": 2.697211
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 5.688282,
+            "hi": 9.64632,
+            "lo": 2.326553
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 81.97,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 83.22,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 83.22,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004240
+  },
+  {
+    "state": "MO",
+    "margin": {
+      "plus": {
+        "margin": -9.826155,
+        "hi": -2.828247,
+        "lo": -16.75097
+      },
+      "now": {
+        "margin": -9.952174,
+        "hi": -2.79376,
+        "lo": -17.02971
+      },
+      "polls": {
+        "margin": -9.567346,
+        "hi": -2.297205,
+        "lo": -16.91315
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0014987,
+      "now": 0.0014736,
+      "polls": 0.0010876
+    },
+    "roi": {
+      "plus": 0.0717096,
+      "now": 0.0705129,
+      "polls": 0.0520394
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 4.19,
+            "forecast": 41.86172,
+            "hi": 45.88568,
+            "lo": 37.90143
+          },
+          "now": {
+            "winprob": 4.4799999999999995,
+            "forecast": 41.66509,
+            "hi": 45.66713,
+            "lo": 37.68528
+          },
+          "polls": {
+            "winprob": 5.26,
+            "forecast": 42.01905,
+            "hi": 46.13235,
+            "lo": 37.81552
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 95.81,
+            "forecast": 51.68788,
+            "hi": 55.83782,
+            "lo": 47.31842
+          },
+          "now": {
+            "winprob": 95.52000000000001,
+            "forecast": 51.61727,
+            "hi": 55.82856,
+            "lo": 47.17795
+          },
+          "polls": {
+            "winprob": 94.73,
+            "forecast": 51.58639,
+            "hi": 55.8989,
+            "lo": 47.18928
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 5.008063,
+            "hi": 8.626009,
+            "lo": 1.986272
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 5.285049,
+            "hi": 8.872675,
+            "lo": 2.213743
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 4.95236,
+            "hi": 8.527406,
+            "lo": 1.929588
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 95.81,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 94.73,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 95.52000000000001,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478006280
+  },
+  {
+    "state": "MS",
+    "margin": {
+      "plus": {
+        "margin": -13.75471,
+        "hi": -6.246771,
+        "lo": -21.22503
+      },
+      "now": {
+        "margin": -13.92302,
+        "hi": -6.343708,
+        "lo": -21.40402
+      },
+      "polls": {
+        "margin": -13.50531,
+        "hi": -5.582834,
+        "lo": -21.47833
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0003177,
+      "now": 0.0001789,
+      "polls": 3.38e-27
+    },
+    "roi": {
+      "plus": 0.0329905,
+      "now": 0.0185807,
+      "polls": 3.51e-25
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 1.68,
+            "forecast": 40.66864,
+            "hi": 44.6603,
+            "lo": 36.55952
+          },
+          "now": {
+            "winprob": 1.77,
+            "forecast": 40.43688,
+            "hi": 44.55802,
+            "lo": 36.33248
+          },
+          "polls": {
+            "winprob": 2.31,
+            "forecast": 40.78615,
+            "hi": 45.054,
+            "lo": 36.44529
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 98.32,
+            "forecast": 54.42335,
+            "hi": 58.66397,
+            "lo": 50.03936
+          },
+          "now": {
+            "winprob": 98.22999999999999,
+            "forecast": 54.3599,
+            "hi": 58.70883,
+            "lo": 49.91521
+          },
+          "polls": {
+            "winprob": 97.68,
+            "forecast": 54.29147,
+            "hi": 58.7651,
+            "lo": 49.71257
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 3.365957,
+            "hi": 6.336237,
+            "lo": 1.037591
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 3.668534,
+            "hi": 6.759715,
+            "lo": 1.241258
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 3.380395,
+            "hi": 6.327812,
+            "lo": 1.057928
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 98.32,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 97.68,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 98.22999999999999,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004240
+  },
+  {
+    "state": "MT",
+    "margin": {
+      "plus": {
+        "margin": -13.67397,
+        "hi": -3.422596,
+        "lo": -23.96912
+      },
+      "now": {
+        "margin": -14.05834,
+        "hi": -3.56563,
+        "lo": -24.38733
+      },
+      "polls": {
+        "margin": -13.37444,
+        "hi": -2.940336,
+        "lo": -23.87243
+      }
+    },
+    "tippingpoint": {
+      "plus": 5.93e-06,
+      "now": 0.000945,
+      "polls": 0.0007253
+    },
+    "roi": {
+      "plus": 0.0015902,
+      "now": 0.2534923,
+      "polls": 0.1945448
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 5.1499999999999995,
+            "forecast": 37.64752,
+            "hi": 43.52613,
+            "lo": 31.81524
+          },
+          "now": {
+            "winprob": 5.050000000000001,
+            "forecast": 37.29694,
+            "hi": 43.26613,
+            "lo": 31.37664
+          },
+          "polls": {
+            "winprob": 5.71,
+            "forecast": 37.89753,
+            "hi": 43.82575,
+            "lo": 31.86891
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 94.8,
+            "forecast": 51.3215,
+            "hi": 57.6071,
+            "lo": 44.90677
+          },
+          "now": {
+            "winprob": 94.92,
+            "forecast": 51.35528,
+            "hi": 57.73979,
+            "lo": 44.95804
+          },
+          "polls": {
+            "winprob": 94.23,
+            "forecast": 51.27197,
+            "hi": 57.6365,
+            "lo": 44.80936
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.05,
+            "forecast": 9.507418,
+            "hi": 15.31268,
+            "lo": 4.355223
+          },
+          "now": {
+            "winprob": 0.03,
+            "forecast": 9.830494,
+            "hi": 15.73704,
+            "lo": 4.690209
+          },
+          "polls": {
+            "winprob": 0.06,
+            "forecast": 9.307971,
+            "hi": 15.09264,
+            "lo": 4.273867
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 94.8,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 94.23,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 94.92,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004300
+  },
+  {
+    "state": "NC",
+    "margin": {
+      "plus": {
+        "margin": -0.2513411,
+        "hi": 6.489841,
+        "lo": -7.154148
+      },
+      "now": {
+        "margin": -0.0775135,
+        "hi": 6.730022,
+        "lo": -7.019022
+      },
+      "polls": {
+        "margin": 0.1925091,
+        "hi": 7.315414,
+        "lo": -6.890713
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.1026161,
+      "now": 0.1065864,
+      "polls": 0.1042442
+    },
+    "roi": {
+      "plus": 2.935244,
+      "now": 3.04881,
+      "polls": 2.981813
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 48.63,
+            "forecast": 47.64235,
+            "hi": 51.33521,
+            "lo": 43.82873
+          },
+          "now": {
+            "winprob": 49.39,
+            "forecast": 47.60279,
+            "hi": 51.37138,
+            "lo": 43.75385
+          },
+          "polls": {
+            "winprob": 51.459999999999994,
+            "forecast": 47.87342,
+            "hi": 51.78908,
+            "lo": 43.84283
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 51.35999999999999,
+            "forecast": 47.89369,
+            "hi": 51.65497,
+            "lo": 44.06352
+          },
+          "now": {
+            "winprob": 50.61,
+            "forecast": 47.68031,
+            "hi": 51.48161,
+            "lo": 43.84492
+          },
+          "polls": {
+            "winprob": 48.54,
+            "forecast": 47.68092,
+            "hi": 51.53864,
+            "lo": 43.73593
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 4.463965,
+            "hi": 7.704789,
+            "lo": 1.74342
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.716901,
+            "hi": 7.992336,
+            "lo": 1.934659
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.445659,
+            "hi": 7.678627,
+            "lo": 1.733103
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 51.35999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 51.459999999999994,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 50.61,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478017080
+  },
+  {
+    "state": "ND",
+    "margin": {
+      "plus": {
+        "margin": -20.34929,
+        "hi": -7.80599,
+        "lo": -32.82721
+      },
+      "now": {
+        "margin": -21.03938,
+        "hi": -8.032969,
+        "lo": -33.87963
+      },
+      "polls": {
+        "margin": -20.28886,
+        "hi": -7.248426,
+        "lo": -33.31942
+      }
+    },
+    "tippingpoint": {
+      "plus": 1.19e-05,
+      "now": 5.22e-05,
+      "polls": 0.0009412
+    },
+    "roi": {
+      "plus": 0.0044995,
+      "now": 0.019807,
+      "polls": 0.3571739
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 3.0300000000000002,
+            "forecast": 34.96101,
+            "hi": 41.65575,
+            "lo": 28.37292
+          },
+          "now": {
+            "winprob": 2.9499999999999997,
+            "forecast": 34.20707,
+            "hi": 41.23569,
+            "lo": 27.18609
+          },
+          "polls": {
+            "winprob": 3.19,
+            "forecast": 34.91683,
+            "hi": 41.88848,
+            "lo": 27.9752
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 96.95,
+            "forecast": 55.3103,
+            "hi": 62.57769,
+            "lo": 47.77249
+          },
+          "now": {
+            "winprob": 96.99,
+            "forecast": 55.24645,
+            "hi": 62.81704,
+            "lo": 47.48893
+          },
+          "polls": {
+            "winprob": 96.76,
+            "forecast": 55.20569,
+            "hi": 62.78432,
+            "lo": 47.54119
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 8.079871,
+            "hi": 13.69301,
+            "lo": 3.264274
+          },
+          "now": {
+            "winprob": 0.06,
+            "forecast": 8.901045,
+            "hi": 14.93187,
+            "lo": 3.799934
+          },
+          "polls": {
+            "winprob": 0.05,
+            "forecast": 8.22835,
+            "hi": 14.06115,
+            "lo": 3.290225
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 96.95,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 96.76,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 96.99,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004300
+  },
+  {
+    "state": "NE",
+    "margin": {
+      "plus": {
+        "margin": -19.93588,
+        "hi": -9.906298,
+        "lo": -29.86554
+      },
+      "now": {
+        "margin": -19.89381,
+        "hi": -9.635052,
+        "lo": -30.22897
+      },
+      "polls": {
+        "margin": -19.58367,
+        "hi": -9.074894,
+        "lo": -30.11697
+      }
+    },
+    "tippingpoint": {
+      "plus": 5.4e-07,
+      "now": 0.0001374,
+      "polls": 9.16e-13
+    },
+    "roi": {
+      "plus": 9.08e-05,
+      "now": 0.0231014,
+      "polls": 1.54e-10
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 1.43,
+            "forecast": 35.8047,
+            "hi": 41.22584,
+            "lo": 30.50159
+          },
+          "now": {
+            "winprob": 1.6099999999999999,
+            "forecast": 35.43622,
+            "hi": 41.06351,
+            "lo": 29.90007
+          },
+          "polls": {
+            "winprob": 1.58,
+            "forecast": 35.89472,
+            "hi": 41.58238,
+            "lo": 30.20841
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 98.57000000000001,
+            "forecast": 55.74059,
+            "hi": 61.56902,
+            "lo": 49.6934
+          },
+          "now": {
+            "winprob": 98.39,
+            "forecast": 55.33003,
+            "hi": 61.39604,
+            "lo": 49.04057
+          },
+          "polls": {
+            "winprob": 98.42,
+            "forecast": 55.47839,
+            "hi": 61.72366,
+            "lo": 49.18638
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 6.737255,
+            "hi": 11.34193,
+            "lo": 2.841603
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 7.515997,
+            "hi": 12.41701,
+            "lo": 3.368803
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 6.908652,
+            "hi": 11.60259,
+            "lo": 2.943882
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 98.57000000000001,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 98.42,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 98.39,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004300
+  },
+  {
+    "state": "NE1",
+    "margin": {
+      "plus": {
+        "margin": -17.22382,
+        "hi": -1.907633,
+        "lo": -32.35351
+      },
+      "now": {
+        "margin": -17.57465,
+        "hi": -1.679934,
+        "lo": -33.30689
+      },
+      "polls": {
+        "margin": -17.25327,
+        "hi": -1.171629,
+        "lo": -33.49661
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0002244,
+      "now": 0.0006756,
+      "polls": 0.0002202
+    },
+    "roi": {
+      "plus": 0.1126759,
+      "now": 0.3392605,
+      "polls": 0.1105642
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 7.9399999999999995,
+            "forecast": 37.19768,
+            "hi": 45.36926,
+            "lo": 29.22805
+          },
+          "now": {
+            "winprob": 8.459999999999999,
+            "forecast": 36.57069,
+            "hi": 44.97997,
+            "lo": 28.27229
+          },
+          "polls": {
+            "winprob": 8.67,
+            "forecast": 37.06684,
+            "hi": 45.45527,
+            "lo": 28.56581
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 92.05,
+            "forecast": 54.42149,
+            "hi": 62.72791,
+            "lo": 45.80055
+          },
+          "now": {
+            "winprob": 91.52,
+            "forecast": 54.14534,
+            "hi": 63.07504,
+            "lo": 44.94485
+          },
+          "polls": {
+            "winprob": 91.28,
+            "forecast": 54.32011,
+            "hi": 63.35548,
+            "lo": 45.34779
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 6.795536,
+            "hi": 12.33438,
+            "lo": 2.277955
+          },
+          "now": {
+            "winprob": 0.02,
+            "forecast": 7.694191,
+            "hi": 13.66934,
+            "lo": 2.829097
+          },
+          "polls": {
+            "winprob": 0.05,
+            "forecast": 7.026721,
+            "hi": 12.82869,
+            "lo": 2.387552
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 92.05,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 91.28,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 91.52,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1475086860
+  },
+  {
+    "state": "NE2",
+    "margin": {
+      "plus": {
+        "margin": -4.241396,
+        "hi": 11.40429,
+        "lo": -19.71605
+      },
+      "now": {
+        "margin": -3.794106,
+        "hi": 12.50519,
+        "lo": -20.1048
+      },
+      "polls": {
+        "margin": -3.557894,
+        "hi": 12.90687,
+        "lo": -19.8867
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.002595,
+      "now": 0.0041733,
+      "polls": 0.0036417
+    },
+    "roi": {
+      "plus": 1.29326,
+      "now": 2.079837,
+      "polls": 1.814918
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 35.03,
+            "forecast": 44.08318,
+            "hi": 52.35736,
+            "lo": 35.87931
+          },
+          "now": {
+            "winprob": 36.64,
+            "forecast": 44.04643,
+            "hi": 52.60407,
+            "lo": 35.51773
+          },
+          "polls": {
+            "winprob": 38.18,
+            "forecast": 44.39485,
+            "hi": 53.10027,
+            "lo": 35.78586
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 64.95,
+            "forecast": 48.32458,
+            "hi": 56.63194,
+            "lo": 39.9372
+          },
+          "now": {
+            "winprob": 63.349999999999994,
+            "forecast": 47.84053,
+            "hi": 56.5338,
+            "lo": 39.16465
+          },
+          "polls": {
+            "winprob": 61.8,
+            "forecast": 47.95274,
+            "hi": 56.68739,
+            "lo": 39.18727
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 6.174595,
+            "hi": 11.00623,
+            "lo": 2.16356
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 6.701778,
+            "hi": 11.78025,
+            "lo": 2.522964
+          },
+          "polls": {
+            "winprob": 0.02,
+            "forecast": 6.234475,
+            "hi": 11.1072,
+            "lo": 2.234838
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 64.95,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 61.8,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 63.349999999999994,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1477903740
+  },
+  {
+    "state": "NE3",
+    "margin": {
+      "plus": {
+        "margin": -38.4931,
+        "hi": -24.36738,
+        "lo": -52.46259
+      },
+      "now": {
+        "margin": -38.39754,
+        "hi": -23.86082,
+        "lo": -53.07933
+      },
+      "polls": {
+        "margin": -38.08045,
+        "hi": -23.28838,
+        "lo": -52.57166
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 9.85e-05,
+      "polls": 0.0
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 0.0505084,
+      "polls": 0.0
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.5599999999999999,
+            "forecast": 26.04465,
+            "hi": 33.25273,
+            "lo": 19.02522
+          },
+          "now": {
+            "winprob": 0.61,
+            "forecast": 25.63341,
+            "hi": 33.05722,
+            "lo": 18.34911
+          },
+          "polls": {
+            "winprob": 0.6799999999999999,
+            "forecast": 26.13792,
+            "hi": 33.72175,
+            "lo": 18.83191
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.42,
+            "forecast": 64.53776,
+            "hi": 72.71126,
+            "lo": 56.10208
+          },
+          "now": {
+            "winprob": 99.39,
+            "forecast": 64.03096,
+            "hi": 72.62187,
+            "lo": 55.17815
+          },
+          "polls": {
+            "winprob": 99.32,
+            "forecast": 64.21837,
+            "hi": 72.81749,
+            "lo": 55.33371
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 7.256687,
+            "hi": 13.00347,
+            "lo": 2.49317
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 8.17182,
+            "hi": 14.36554,
+            "lo": 3.008946
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 7.481775,
+            "hi": 13.50884,
+            "lo": 2.616839
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.42,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.32,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.39,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1475086860
+  },
+  {
+    "state": "NH",
+    "margin": {
+      "plus": {
+        "margin": 4.02971,
+        "hi": 13.15068,
+        "lo": -5.177252
+      },
+      "now": {
+        "margin": 4.089692,
+        "hi": 13.39131,
+        "lo": -5.309019
+      },
+      "polls": {
+        "margin": 4.422845,
+        "hi": 14.08226,
+        "lo": -5.322449
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0325219,
+      "now": 0.0274749,
+      "polls": 0.0255115
+    },
+    "roi": {
+      "plus": 5.984889,
+      "now": 5.056114,
+      "polls": 4.694795
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 72.74000000000001,
+            "forecast": 47.81599,
+            "hi": 53.06524,
+            "lo": 42.38373
+          },
+          "now": {
+            "winprob": 72.11999999999999,
+            "forecast": 47.57686,
+            "hi": 52.99415,
+            "lo": 42.08637
+          },
+          "polls": {
+            "winprob": 73.11999999999999,
+            "forecast": 47.99577,
+            "hi": 53.65619,
+            "lo": 42.31825
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 27.250000000000004,
+            "forecast": 43.78628,
+            "hi": 49.06779,
+            "lo": 38.5518
+          },
+          "now": {
+            "winprob": 27.860000000000003,
+            "forecast": 43.48716,
+            "hi": 48.84048,
+            "lo": 38.16281
+          },
+          "polls": {
+            "winprob": 26.86,
+            "forecast": 43.57293,
+            "hi": 48.95857,
+            "lo": 38.19958
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 7.164181,
+            "hi": 11.71925,
+            "lo": 3.222908
+          },
+          "now": {
+            "winprob": 0.02,
+            "forecast": 7.710131,
+            "hi": 12.47607,
+            "lo": 3.591246
+          },
+          "polls": {
+            "winprob": 0.02,
+            "forecast": 7.197679,
+            "hi": 11.85568,
+            "lo": 3.202456
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 72.74000000000001,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 73.11999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 72.11999999999999,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478016420
+  },
+  {
+    "state": "NJ",
+    "margin": {
+      "plus": {
+        "margin": 12.33836,
+        "hi": 19.84437,
+        "lo": 4.857611
+      },
+      "now": {
+        "margin": 12.39064,
+        "hi": 19.9872,
+        "lo": 4.758339
+      },
+      "polls": {
+        "margin": 12.57315,
+        "hi": 20.41284,
+        "lo": 4.614164
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0084022,
+      "now": 0.0045318,
+      "polls": 0.002625
+    },
+    "roi": {
+      "plus": 0.3022597,
+      "now": 0.1630248,
+      "polls": 0.094433
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 97.3,
+            "forecast": 53.83327,
+            "hi": 58.0069,
+            "lo": 49.5143
+          },
+          "now": {
+            "winprob": 97.17,
+            "forecast": 53.7794,
+            "hi": 58.03436,
+            "lo": 49.39014
+          },
+          "polls": {
+            "winprob": 97.23,
+            "forecast": 53.96897,
+            "hi": 58.39815,
+            "lo": 49.44204
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 2.7,
+            "forecast": 41.49491,
+            "hi": 45.54915,
+            "lo": 37.3922
+          },
+          "now": {
+            "winprob": 2.83,
+            "forecast": 41.38876,
+            "hi": 45.52904,
+            "lo": 37.23485
+          },
+          "polls": {
+            "winprob": 2.77,
+            "forecast": 41.39582,
+            "hi": 45.613,
+            "lo": 37.14255
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 3.21794,
+            "hi": 6.012679,
+            "lo": 1.036697
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 3.382746,
+            "hi": 6.126225,
+            "lo": 1.135168
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 3.181475,
+            "hi": 5.8752,
+            "lo": 1.011122
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 97.3,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 97.23,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 97.17,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004300
+  },
+  {
+    "state": "NM",
+    "margin": {
+      "plus": {
+        "margin": 7.255668,
+        "hi": 15.17476,
+        "lo": -0.6194782
+      },
+      "now": {
+        "margin": 7.10145,
+        "hi": 15.27467,
+        "lo": -0.8820724
+      },
+      "polls": {
+        "margin": 7.588421,
+        "hi": 15.93857,
+        "lo": -0.8235226
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0158441,
+      "now": 0.0164608,
+      "polls": 0.0137558
+    },
+    "roi": {
+      "plus": 2.712099,
+      "now": 2.817668,
+      "polls": 2.354638
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 88.24,
+            "forecast": 46.05209,
+            "hi": 51.62827,
+            "lo": 40.26589
+          },
+          "now": {
+            "winprob": 87.07000000000001,
+            "forecast": 45.54139,
+            "hi": 51.30408,
+            "lo": 39.69504
+          },
+          "polls": {
+            "winprob": 87.5,
+            "forecast": 46.19538,
+            "hi": 52.09389,
+            "lo": 40.18323
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 11.43,
+            "forecast": 38.79642,
+            "hi": 43.97257,
+            "lo": 33.509
+          },
+          "now": {
+            "winprob": 12.520000000000001,
+            "forecast": 38.43993,
+            "hi": 43.77559,
+            "lo": 32.98602
+          },
+          "polls": {
+            "winprob": 12.18,
+            "forecast": 38.60696,
+            "hi": 43.95512,
+            "lo": 33.26399
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.33,
+            "forecast": 13.80526,
+            "hi": 20.72459,
+            "lo": 7.487152
+          },
+          "now": {
+            "winprob": 0.41000000000000003,
+            "forecast": 14.6799,
+            "hi": 21.75064,
+            "lo": 8.320343
+          },
+          "polls": {
+            "winprob": 0.32,
+            "forecast": 13.8514,
+            "hi": 20.86826,
+            "lo": 7.476616
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 88.24,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 87.5,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 87.07000000000001,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004300
+  },
+  {
+    "state": "NV",
+    "margin": {
+      "plus": {
+        "margin": 0.8855479,
+        "hi": 8.607584,
+        "lo": -6.896719
+      },
+      "now": {
+        "margin": 0.5619271,
+        "hi": 8.564688,
+        "lo": -7.25572
+      },
+      "polls": {
+        "margin": 1.060459,
+        "hi": 9.190546,
+        "lo": -6.956892
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0391622,
+      "now": 0.0329617,
+      "polls": 0.0352086
+    },
+    "roi": {
+      "plus": 4.777039,
+      "now": 4.020704,
+      "polls": 4.294782
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 56.53,
+            "forecast": 46.83463,
+            "hi": 51.29202,
+            "lo": 42.28393
+          },
+          "now": {
+            "winprob": 53.87,
+            "forecast": 46.42964,
+            "hi": 51.06026,
+            "lo": 41.74065
+          },
+          "polls": {
+            "winprob": 56.37,
+            "forecast": 46.89273,
+            "hi": 51.63409,
+            "lo": 42.1235
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 43.46,
+            "forecast": 45.94909,
+            "hi": 50.50744,
+            "lo": 41.36655
+          },
+          "now": {
+            "winprob": 46.12,
+            "forecast": 45.86771,
+            "hi": 50.45413,
+            "lo": 41.20913
+          },
+          "polls": {
+            "winprob": 43.62,
+            "forecast": 45.83227,
+            "hi": 50.41456,
+            "lo": 41.11546
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 5.94559,
+            "hi": 9.939099,
+            "lo": 2.496082
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 6.442842,
+            "hi": 10.58561,
+            "lo": 2.878945
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 6.0041,
+            "hi": 10.03222,
+            "lo": 2.565373
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 56.53,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 56.37,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 53.87,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478016420
+  },
+  {
+    "state": "NY",
+    "margin": {
+      "plus": {
+        "margin": 19.49106,
+        "hi": 26.55685,
+        "lo": 12.19423
+      },
+      "now": {
+        "margin": 19.14038,
+        "hi": 26.44855,
+        "lo": 11.73826
+      },
+      "polls": {
+        "margin": 19.49189,
+        "hi": 26.91987,
+        "lo": 11.94855
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0001345,
+      "now": 0.001209,
+      "polls": 0.0007163
+    },
+    "roi": {
+      "plus": 0.0024891,
+      "now": 0.022368,
+      "polls": 0.0132529
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.77000000000001,
+            "forecast": 57.18365,
+            "hi": 61.28365,
+            "lo": 52.9352
+          },
+          "now": {
+            "winprob": 99.68,
+            "forecast": 56.93732,
+            "hi": 61.17933,
+            "lo": 52.58204
+          },
+          "polls": {
+            "winprob": 99.72,
+            "forecast": 57.20134,
+            "hi": 61.52272,
+            "lo": 52.74911
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.22999999999999998,
+            "forecast": 37.6926,
+            "hi": 41.56615,
+            "lo": 33.79239
+          },
+          "now": {
+            "winprob": 0.32,
+            "forecast": 37.79694,
+            "hi": 41.69876,
+            "lo": 33.83855
+          },
+          "polls": {
+            "winprob": 0.27999999999999997,
+            "forecast": 37.70945,
+            "hi": 41.76431,
+            "lo": 33.64087
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 3.43827,
+            "hi": 6.255075,
+            "lo": 1.169573
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 3.584786,
+            "hi": 6.384427,
+            "lo": 1.297467
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 3.404001,
+            "hi": 6.161439,
+            "lo": 1.156758
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 99.77000000000001,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 99.72,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 99.68,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004300
+  },
+  {
+    "state": "OH",
+    "margin": {
+      "plus": {
+        "margin": -1.64505,
+        "hi": 5.362274,
+        "lo": -8.680782
+      },
+      "now": {
+        "margin": -1.789411,
+        "hi": 5.264095,
+        "lo": -8.915857
+      },
+      "polls": {
+        "margin": -1.384439,
+        "hi": 5.84934,
+        "lo": -8.704355
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0542361,
+      "now": 0.0599177,
+      "polls": 0.0635942
+    },
+    "roi": {
+      "plus": 1.290384,
+      "now": 1.425561,
+      "polls": 1.51303
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 37.51,
+            "forecast": 46.08805,
+            "hi": 50.11211,
+            "lo": 42.06874
+          },
+          "now": {
+            "winprob": 36.55,
+            "forecast": 45.85535,
+            "hi": 49.99369,
+            "lo": 41.68158
+          },
+          "polls": {
+            "winprob": 39.879999999999995,
+            "forecast": 46.21111,
+            "hi": 50.30566,
+            "lo": 41.91763
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 62.480000000000004,
+            "forecast": 47.7331,
+            "hi": 51.81952,
+            "lo": 43.6409
+          },
+          "now": {
+            "winprob": 63.44,
+            "forecast": 47.64476,
+            "hi": 51.78624,
+            "lo": 43.45123
+          },
+          "polls": {
+            "winprob": 60.12,
+            "forecast": 47.59555,
+            "hi": 51.72658,
+            "lo": 43.33897
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 4.959573,
+            "hi": 8.461689,
+            "lo": 2.003157
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 5.290401,
+            "hi": 8.839789,
+            "lo": 2.237013
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.973971,
+            "hi": 8.516602,
+            "lo": 2.007839
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 62.480000000000004,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 60.12,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 63.44,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478016420
+  },
+  {
+    "state": "OK",
+    "margin": {
+      "plus": {
+        "margin": -25.60583,
+        "hi": -18.18781,
+        "lo": -32.90634
+      },
+      "now": {
+        "margin": -25.07914,
+        "hi": -17.54263,
+        "lo": -32.64879
+      },
+      "polls": {
+        "margin": -24.85481,
+        "hi": -17.21066,
+        "lo": -32.44771
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 0.0003523,
+      "polls": 0.0
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 0.0349437,
+      "polls": 0.0
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.06999999999999999,
+            "forecast": 33.80596,
+            "hi": 37.79981,
+            "lo": 29.80323
+          },
+          "now": {
+            "winprob": 0.06999999999999999,
+            "forecast": 33.73558,
+            "hi": 37.86085,
+            "lo": 29.68389
+          },
+          "polls": {
+            "winprob": 0.12,
+            "forecast": 34.15574,
+            "hi": 38.33843,
+            "lo": 30.00994
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.92,
+            "forecast": 59.41179,
+            "hi": 63.94323,
+            "lo": 54.62516
+          },
+          "now": {
+            "winprob": 99.92999999999999,
+            "forecast": 58.81472,
+            "hi": 63.51465,
+            "lo": 53.94618
+          },
+          "polls": {
+            "winprob": 99.88,
+            "forecast": 59.01055,
+            "hi": 63.71323,
+            "lo": 54.16939
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 6.782253,
+            "hi": 11.40818,
+            "lo": 2.839198
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 7.449697,
+            "hi": 12.31344,
+            "lo": 3.325895
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 6.833716,
+            "hi": 11.49772,
+            "lo": 2.865566
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.92,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.88,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.92999999999999,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004300
+  },
+  {
+    "state": "OR",
+    "margin": {
+      "plus": {
+        "margin": 8.740815,
+        "hi": 16.49541,
+        "lo": 1.063269
+      },
+      "now": {
+        "margin": 8.460422,
+        "hi": 16.26196,
+        "lo": 0.7091503
+      },
+      "polls": {
+        "margin": 8.970391,
+        "hi": 16.86817,
+        "lo": 1.011417
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0083758,
+      "now": 0.0146102,
+      "polls": 0.0102748
+    },
+    "roi": {
+      "plus": 0.595293,
+      "now": 1.038396,
+      "polls": 0.7302613
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 92.13,
+            "forecast": 51.1809,
+            "hi": 55.62688,
+            "lo": 46.58061
+          },
+          "now": {
+            "winprob": 91.74,
+            "forecast": 50.92143,
+            "hi": 55.47024,
+            "lo": 46.28394
+          },
+          "polls": {
+            "winprob": 92.36,
+            "forecast": 51.31618,
+            "hi": 55.85304,
+            "lo": 46.65552
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 7.870000000000001,
+            "forecast": 42.44008,
+            "hi": 46.83395,
+            "lo": 38.03396
+          },
+          "now": {
+            "winprob": 8.25,
+            "forecast": 42.46101,
+            "hi": 46.82359,
+            "lo": 38.02462
+          },
+          "polls": {
+            "winprob": 7.630000000000001,
+            "forecast": 42.34578,
+            "hi": 46.74133,
+            "lo": 37.85308
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 5.008597,
+            "hi": 8.666491,
+            "lo": 1.964016
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 5.250307,
+            "hi": 8.890173,
+            "lo": 2.155001
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 4.967863,
+            "hi": 8.607491,
+            "lo": 1.939997
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 92.13,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 92.36,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 91.74,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478021700
+  },
+  {
+    "state": "PA",
+    "margin": {
+      "plus": {
+        "margin": 4.134794,
+        "hi": 10.99861,
+        "lo": -2.737055
+      },
+      "now": {
+        "margin": 4.213999,
+        "hi": 11.10494,
+        "lo": -2.69836
+      },
+      "polls": {
+        "margin": 4.477567,
+        "hi": 11.68609,
+        "lo": -2.669128
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.1235962,
+      "now": 0.1196242,
+      "polls": 0.1156194
+    },
+    "roi": {
+      "plus": 2.875267,
+      "now": 2.782865,
+      "polls": 2.689698
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 79.07,
+            "forecast": 49.23177,
+            "hi": 53.1567,
+            "lo": 45.20724
+          },
+          "now": {
+            "winprob": 79.65,
+            "forecast": 49.1276,
+            "hi": 53.10924,
+            "lo": 45.0491
+          },
+          "polls": {
+            "winprob": 79.64,
+            "forecast": 49.39856,
+            "hi": 53.51486,
+            "lo": 45.19211
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 20.93,
+            "forecast": 45.09698,
+            "hi": 49.01369,
+            "lo": 41.09758
+          },
+          "now": {
+            "winprob": 20.349999999999998,
+            "forecast": 44.9136,
+            "hi": 48.87658,
+            "lo": 40.93599
+          },
+          "polls": {
+            "winprob": 20.349999999999998,
+            "forecast": 44.92099,
+            "hi": 48.94814,
+            "lo": 40.8468
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.435574,
+            "hi": 7.667043,
+            "lo": 1.726194
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.733726,
+            "hi": 8.041195,
+            "lo": 1.936412
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 4.444834,
+            "hi": 7.71496,
+            "lo": 1.712272
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 79.07,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 79.64,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 79.65,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478016420
+  },
+  {
+    "state": "RI",
+    "margin": {
+      "plus": {
+        "margin": 14.82842,
+        "hi": 26.59623,
+        "lo": 2.997519
+      },
+      "now": {
+        "margin": 13.59693,
+        "hi": 25.9188,
+        "lo": 1.395943
+      },
+      "polls": {
+        "margin": 14.31665,
+        "hi": 26.63438,
+        "lo": 1.837292
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0007223,
+      "now": 0.006307,
+      "polls": 0.0032316
+    },
+    "roi": {
+      "plus": 0.2146487,
+      "now": 1.874301,
+      "polls": 0.9603607
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 94.27,
+            "forecast": 54.29714,
+            "hi": 60.69629,
+            "lo": 47.81741
+          },
+          "now": {
+            "winprob": 91.81,
+            "forecast": 53.55182,
+            "hi": 60.25074,
+            "lo": 46.81999
+          },
+          "polls": {
+            "winprob": 92.65,
+            "forecast": 54.05704,
+            "hi": 60.85163,
+            "lo": 47.1321
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 5.7299999999999995,
+            "forecast": 39.46872,
+            "hi": 45.73803,
+            "lo": 33.25368
+          },
+          "now": {
+            "winprob": 8.19,
+            "forecast": 39.9549,
+            "hi": 46.38097,
+            "lo": 33.57471
+          },
+          "polls": {
+            "winprob": 7.35,
+            "forecast": 39.74039,
+            "hi": 46.29584,
+            "lo": 33.30523
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.550346,
+            "hi": 8.354296,
+            "lo": 1.508072
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.813911,
+            "hi": 8.657862,
+            "lo": 1.712408
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.518869,
+            "hi": 8.300447,
+            "lo": 1.482119
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 94.27,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 92.65,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 91.81,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004360
+  },
+  {
+    "state": "SC",
+    "margin": {
+      "plus": {
+        "margin": -7.265231,
+        "hi": -0.1100979,
+        "lo": -14.39912
+      },
+      "now": {
+        "margin": -6.593316,
+        "hi": 0.7281837,
+        "lo": -13.95708
+      },
+      "polls": {
+        "margin": -6.623573,
+        "hi": 0.8875713,
+        "lo": -14.09378
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0050151,
+      "now": 0.0085362,
+      "polls": 0.0050897
+    },
+    "roi": {
+      "plus": 0.3237638,
+      "now": 0.5510767,
+      "polls": 0.3285777
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 9.69,
+            "forecast": 43.71063,
+            "hi": 47.69916,
+            "lo": 39.69378
+          },
+          "now": {
+            "winprob": 12.06,
+            "forecast": 43.855,
+            "hi": 47.9215,
+            "lo": 39.6931
+          },
+          "polls": {
+            "winprob": 12.709999999999999,
+            "forecast": 44.03035,
+            "hi": 48.21765,
+            "lo": 39.81544
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 90.31,
+            "forecast": 50.97586,
+            "hi": 55.05819,
+            "lo": 46.83043
+          },
+          "now": {
+            "winprob": 87.94,
+            "forecast": 50.44831,
+            "hi": 54.6507,
+            "lo": 46.16724
+          },
+          "polls": {
+            "winprob": 87.29,
+            "forecast": 50.65393,
+            "hi": 54.84427,
+            "lo": 46.33114
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 3.813773,
+            "hi": 6.875426,
+            "lo": 1.282707
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.202006,
+            "hi": 7.447928,
+            "lo": 1.546596
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 3.816026,
+            "hi": 6.87907,
+            "lo": 1.279609
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 90.31,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 87.29,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 87.94,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004360
+  },
+  {
+    "state": "SD",
+    "margin": {
+      "plus": {
+        "margin": -16.50519,
+        "hi": -4.633835,
+        "lo": -28.41401
+      },
+      "now": {
+        "margin": -16.7395,
+        "hi": -4.534954,
+        "lo": -29.0835
+      },
+      "polls": {
+        "margin": -16.17816,
+        "hi": -3.683292,
+        "lo": -28.62883
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0001798,
+      "now": 0.0004965,
+      "polls": 0.0014572
+    },
+    "roi": {
+      "plus": 0.0644526,
+      "now": 0.1780182,
+      "polls": 0.5224952
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 4.42,
+            "forecast": 37.06074,
+            "hi": 43.51901,
+            "lo": 30.60695
+          },
+          "now": {
+            "winprob": 4.9399999999999995,
+            "forecast": 36.60066,
+            "hi": 43.19189,
+            "lo": 30.07955
+          },
+          "polls": {
+            "winprob": 5.56,
+            "forecast": 37.17408,
+            "hi": 43.86134,
+            "lo": 30.40837
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 95.57,
+            "forecast": 53.56593,
+            "hi": 60.55725,
+            "lo": 46.56013
+          },
+          "now": {
+            "winprob": 95.04,
+            "forecast": 53.34016,
+            "hi": 60.44744,
+            "lo": 45.95744
+          },
+          "polls": {
+            "winprob": 94.43,
+            "forecast": 53.35224,
+            "hi": 60.40752,
+            "lo": 46.12841
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 7.7541,
+            "hi": 12.9849,
+            "lo": 3.265797
+          },
+          "now": {
+            "winprob": 0.02,
+            "forecast": 8.443752,
+            "hi": 13.85811,
+            "lo": 3.827956
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 7.854177,
+            "hi": 13.04669,
+            "lo": 3.301881
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 95.57,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 94.43,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 95.04,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004360
+  },
+  {
+    "state": "TN",
+    "margin": {
+      "plus": {
+        "margin": -14.40524,
+        "hi": -7.181181,
+        "lo": -21.62025
+      },
+      "now": {
+        "margin": -13.94698,
+        "hi": -6.58717,
+        "lo": -21.29017
+      },
+      "polls": {
+        "margin": -13.62868,
+        "hi": -5.951305,
+        "lo": -21.24967
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0002473,
+      "now": 0.0002191,
+      "polls": 5.65e-09
+    },
+    "roi": {
+      "plus": 0.0130524,
+      "now": 0.0115637,
+      "polls": 2.98e-07
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 1.1400000000000001,
+            "forecast": 39.81376,
+            "hi": 43.75822,
+            "lo": 35.8197
+          },
+          "now": {
+            "winprob": 1.6500000000000001,
+            "forecast": 39.87939,
+            "hi": 43.96453,
+            "lo": 35.84536
+          },
+          "polls": {
+            "winprob": 1.96,
+            "forecast": 40.18543,
+            "hi": 44.42391,
+            "lo": 35.90366
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 98.86,
+            "forecast": 54.219,
+            "hi": 58.58628,
+            "lo": 49.76759
+          },
+          "now": {
+            "winprob": 98.35000000000001,
+            "forecast": 53.82637,
+            "hi": 58.25567,
+            "lo": 49.31275
+          },
+          "polls": {
+            "winprob": 98.04,
+            "forecast": 53.81411,
+            "hi": 58.21656,
+            "lo": 49.21822
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.281707,
+            "hi": 7.616462,
+            "lo": 1.533614
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.612402,
+            "hi": 8.03274,
+            "lo": 1.769359
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.315066,
+            "hi": 7.690138,
+            "lo": 1.548414
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 98.86,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 98.04,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 98.35000000000001,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004780
+  },
+  {
+    "state": "TX",
+    "margin": {
+      "plus": {
+        "margin": -9.212891,
+        "hi": -2.394449,
+        "lo": -16.15836
+      },
+      "now": {
+        "margin": -8.90558,
+        "hi": -2.060575,
+        "lo": -15.87053
+      },
+      "polls": {
+        "margin": -8.513586,
+        "hi": -1.352808,
+        "lo": -15.63229
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0047601,
+      "now": 0.0055118,
+      "polls": 0.0071406
+    },
+    "roi": {
+      "plus": 0.0740454,
+      "now": 0.085738,
+      "polls": 0.1110752
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 4.859999999999999,
+            "forecast": 42.07682,
+            "hi": 46.04391,
+            "lo": 38.04567
+          },
+          "now": {
+            "winprob": 5.3,
+            "forecast": 42.05145,
+            "hi": 46.07635,
+            "lo": 38.01218
+          },
+          "polls": {
+            "winprob": 6.909999999999999,
+            "forecast": 42.41246,
+            "hi": 46.52531,
+            "lo": 38.16167
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 95.14,
+            "forecast": 51.28971,
+            "hi": 55.45621,
+            "lo": 47.02085
+          },
+          "now": {
+            "winprob": 94.69,
+            "forecast": 50.95703,
+            "hi": 55.15784,
+            "lo": 46.658
+          },
+          "polls": {
+            "winprob": 93.08999999999999,
+            "forecast": 50.92604,
+            "hi": 55.12955,
+            "lo": 46.49778
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 5.030366,
+            "hi": 8.61277,
+            "lo": 2.012752
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 5.394829,
+            "hi": 9.123116,
+            "lo": 2.275142
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 5.058179,
+            "hi": 8.634025,
+            "lo": 1.99852
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 95.14,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 93.08999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 94.69,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478005140
+  },
+  {
+    "state": "US",
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 69.66,
+            "forecast": 48.5514,
+            "hi": 51.89108,
+            "lo": 45.11098,
+            "evs": 297.7965,
+            "evs_hi": 370.0,
+            "evs_lo": 216.0
+          },
+          "now": {
+            "winprob": 69.63000000000001,
+            "forecast": 48.42141,
+            "hi": 51.78183,
+            "lo": 45.00289,
+            "evs": 298.4576,
+            "evs_hi": 373.0,
+            "evs_lo": 216.0
+          },
+          "polls": {
+            "winprob": 70.97,
+            "forecast": 48.73846,
+            "hi": 52.1846,
+            "lo": 45.12683,
+            "evs": 302.7033,
+            "evs_hi": 380.0,
+            "evs_lo": 216.0
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 30.28,
+            "forecast": 45.08089,
+            "hi": 48.3995,
+            "lo": 41.69877,
+            "evs": 239.0903,
+            "evs_hi": 322.0,
+            "evs_lo": 167.0
+          },
+          "now": {
+            "winprob": 30.31,
+            "forecast": 44.88443,
+            "hi": 48.15547,
+            "lo": 41.44953,
+            "evs": 238.0339,
+            "evs_hi": 321.0,
+            "evs_lo": 164.0
+          },
+          "polls": {
+            "winprob": 28.95,
+            "forecast": 44.88495,
+            "hi": 48.24467,
+            "lo": 41.42886,
+            "evs": 234.0883,
+            "evs_hi": 321.0,
+            "evs_lo": 156.0
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 4.803126,
+            "hi": 8.115467,
+            "lo": 1.999703,
+            "evs": 0.0476,
+            "evs_hi": 0.0,
+            "evs_lo": 0.0
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 5.126947,
+            "hi": 8.484796,
+            "lo": 2.241767,
+            "evs": 0.0487,
+            "evs_hi": 0.0,
+            "evs_lo": 0.0
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 4.812016,
+            "hi": 8.126581,
+            "lo": 2.003713,
+            "evs": 0.0438,
+            "evs_hi": 0.0,
+            "evs_lo": 0.0
+          }
+        }
+      },
+      "I": {
+        "party": "I",
+        "candidate": "McMullin",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.05,
+            "forecast": 0.0,
+            "hi": 0.0,
+            "lo": 0.0,
+            "evs": 1.0656,
+            "evs_hi": 6.0,
+            "evs_lo": 0.0
+          },
+          "now": {
+            "winprob": 0.05,
+            "forecast": 0.0,
+            "hi": 0.0,
+            "lo": 0.0,
+            "evs": 1.4598,
+            "evs_hi": 6.0,
+            "evs_lo": 0.0
+          },
+          "polls": {
+            "winprob": 0.06999999999999999,
+            "forecast": 0.0,
+            "hi": 0.0,
+            "lo": 0.0,
+            "evs": 1.1646,
+            "evs_hi": 6.0,
+            "evs_lo": 0.0
+          }
+        }
+      },
+      "O": {
+        "party": "O",
+        "candidate": "Other",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 1.564588,
+            "hi": 0.0,
+            "lo": 0.0,
+            "evs": 0.0,
+            "evs_hi": 0.0,
+            "evs_lo": 0.0
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 1.567214,
+            "hi": 0.0,
+            "lo": 0.0,
+            "evs": 0.0,
+            "evs_hi": 0.0,
+            "evs_lo": 0.0
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 1.564573,
+            "hi": 0.0,
+            "lo": 0.0,
+            "evs": 0.0,
+            "evs_hi": 0.0,
+            "evs_lo": 0.0
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 69.66,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 70.97,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 69.63000000000001,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478018040
+  },
+  {
+    "state": "UT",
+    "margin": {
+      "plus": {
+        "margin": -10.38076,
+        "hi": -2.58647,
+        "lo": -18.35791
+      },
+      "now": {
+        "margin": -9.220152,
+        "hi": -1.494208,
+        "lo": -16.95805
+      },
+      "polls": {
+        "margin": -9.085672,
+        "hi": -1.027091,
+        "lo": -17.17287
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0016515,
+      "now": 0.0011453,
+      "polls": 0.0042752
+    },
+    "roi": {
+      "plus": 0.2046164,
+      "now": 0.1419081,
+      "polls": 0.5296943
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 3.32,
+            "forecast": 26.3729,
+            "hi": 31.13607,
+            "lo": 21.68191
+          },
+          "now": {
+            "winprob": 3.9600000000000004,
+            "forecast": 26.29117,
+            "hi": 30.96857,
+            "lo": 21.61899
+          },
+          "polls": {
+            "winprob": 4.74,
+            "forecast": 27.02339,
+            "hi": 31.86499,
+            "lo": 22.30904
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 78.91,
+            "forecast": 36.75366,
+            "hi": 42.84355,
+            "lo": 30.5479
+          },
+          "now": {
+            "winprob": 71.7,
+            "forecast": 35.51132,
+            "hi": 41.55107,
+            "lo": 29.51647
+          },
+          "polls": {
+            "winprob": 75.84,
+            "forecast": 36.10906,
+            "hi": 42.26743,
+            "lo": 29.90084
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 6.045116,
+            "hi": 10.09282,
+            "lo": 2.509201
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 6.285985,
+            "hi": 10.34876,
+            "lo": 2.635381
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 6.039246,
+            "hi": 10.18508,
+            "lo": 2.476019
+          }
+        }
+      },
+      "I": {
+        "party": "I",
+        "candidate": "McMullin",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 17.76,
+            "forecast": 28.61705,
+            "hi": 35.90413,
+            "lo": 21.6973
+          },
+          "now": {
+            "winprob": 24.33,
+            "forecast": 29.70705,
+            "hi": 36.68741,
+            "lo": 22.89162
+          },
+          "polls": {
+            "winprob": 19.41,
+            "forecast": 28.61705,
+            "hi": 35.79595,
+            "lo": 21.57194
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 78.91,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 75.84,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 71.7,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004840
+  },
+  {
+    "state": "VA",
+    "margin": {
+      "plus": {
+        "margin": 5.865693,
+        "hi": 12.7524,
+        "lo": -0.9782791
+      },
+      "now": {
+        "margin": 6.041447,
+        "hi": 12.98802,
+        "lo": -0.9191093
+      },
+      "polls": {
+        "margin": 6.269271,
+        "hi": 13.57415,
+        "lo": -1.012074
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0448507,
+      "now": 0.0480533,
+      "polls": 0.0449705
+    },
+    "roi": {
+      "plus": 1.506219,
+      "now": 1.613773,
+      "polls": 1.510241
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 86.6,
+            "forecast": 49.86293,
+            "hi": 53.85336,
+            "lo": 45.73446
+          },
+          "now": {
+            "winprob": 86.89,
+            "forecast": 49.77528,
+            "hi": 53.83659,
+            "lo": 45.57677
+          },
+          "polls": {
+            "winprob": 86.72999999999999,
+            "forecast": 50.03871,
+            "hi": 54.30305,
+            "lo": 45.76667
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 13.389999999999999,
+            "forecast": 43.99724,
+            "hi": 47.87853,
+            "lo": 40.03593
+          },
+          "now": {
+            "winprob": 13.100000000000001,
+            "forecast": 43.73383,
+            "hi": 47.71401,
+            "lo": 39.64386
+          },
+          "polls": {
+            "winprob": 13.26,
+            "forecast": 43.76944,
+            "hi": 47.86105,
+            "lo": 39.59325
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 4.945433,
+            "hi": 8.44112,
+            "lo": 1.978559
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 5.305345,
+            "hi": 8.878101,
+            "lo": 2.231221
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 4.997374,
+            "hi": 8.581899,
+            "lo": 2.004325
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 86.6,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 86.72999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 86.89,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004840
+  },
+  {
+    "state": "VT",
+    "margin": {
+      "plus": {
+        "margin": 26.02822,
+        "hi": 39.59692,
+        "lo": 12.24936
+      },
+      "now": {
+        "margin": 25.63796,
+        "hi": 39.78226,
+        "lo": 11.28841
+      },
+      "polls": {
+        "margin": 25.95738,
+        "hi": 40.2188,
+        "lo": 11.51686
+      }
+    },
+    "tippingpoint": {
+      "plus": 2.97e-05,
+      "now": 0.001168,
+      "polls": 0.0008571
+    },
+    "roi": {
+      "plus": 0.0132594,
+      "now": 0.5209757,
+      "polls": 0.3822735
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 98.21,
+            "forecast": 59.15142,
+            "hi": 66.72247,
+            "lo": 51.4478
+          },
+          "now": {
+            "winprob": 97.77,
+            "forecast": 58.74943,
+            "hi": 66.60077,
+            "lo": 50.65085
+          },
+          "polls": {
+            "winprob": 97.68,
+            "forecast": 59.10233,
+            "hi": 66.97449,
+            "lo": 51.00284
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 1.78,
+            "forecast": 33.1232,
+            "hi": 40.39112,
+            "lo": 26.01859
+          },
+          "now": {
+            "winprob": 2.22,
+            "forecast": 33.11147,
+            "hi": 40.48683,
+            "lo": 25.8894
+          },
+          "polls": {
+            "winprob": 2.32,
+            "forecast": 33.14495,
+            "hi": 40.65006,
+            "lo": 25.76727
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 5.878496,
+            "hi": 10.31796,
+            "lo": 2.199867
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 6.285666,
+            "hi": 10.78117,
+            "lo": 2.483672
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 5.905792,
+            "hi": 10.34227,
+            "lo": 2.207541
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 98.21,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 97.68,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 97.77,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004840
+  },
+  {
+    "state": "WA",
+    "margin": {
+      "plus": {
+        "margin": 12.71608,
+        "hi": 20.28411,
+        "lo": 5.124876
+      },
+      "now": {
+        "margin": 12.77977,
+        "hi": 20.47294,
+        "lo": 5.187641
+      },
+      "polls": {
+        "margin": 13.02985,
+        "hi": 20.76918,
+        "lo": 5.205759
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.00365,
+      "now": 0.0016468,
+      "polls": 0.001677
+    },
+    "roi": {
+      "plus": 0.1487479,
+      "now": 0.0671119,
+      "polls": 0.0683424
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 97.53,
+            "forecast": 53.07111,
+            "hi": 57.50903,
+            "lo": 48.44995
+          },
+          "now": {
+            "winprob": 97.65,
+            "forecast": 53.00658,
+            "hi": 57.54295,
+            "lo": 48.32902
+          },
+          "polls": {
+            "winprob": 97.6,
+            "forecast": 53.23577,
+            "hi": 57.80135,
+            "lo": 48.48018
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 2.46,
+            "forecast": 40.35502,
+            "hi": 44.61829,
+            "lo": 36.08117
+          },
+          "now": {
+            "winprob": 2.35,
+            "forecast": 40.22681,
+            "hi": 44.45041,
+            "lo": 35.8479
+          },
+          "polls": {
+            "winprob": 2.39,
+            "forecast": 40.20592,
+            "hi": 44.5305,
+            "lo": 35.81522
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 5.154593,
+            "hi": 8.920978,
+            "lo": 2.028895
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 5.35114,
+            "hi": 9.147326,
+            "lo": 2.19838
+          },
+          "polls": {
+            "winprob": 0.01,
+            "forecast": 5.139115,
+            "hi": 8.882482,
+            "lo": 1.987403
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 97.53,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 97.6,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 97.65,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004840
+  },
+  {
+    "state": "WI",
+    "margin": {
+      "plus": {
+        "margin": 4.613279,
+        "hi": 11.93181,
+        "lo": -2.609962
+      },
+      "now": {
+        "margin": 4.545151,
+        "hi": 11.97397,
+        "lo": -2.813684
+      },
+      "polls": {
+        "margin": 4.879475,
+        "hi": 12.40138,
+        "lo": -2.716108
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.084444,
+      "now": 0.0596933,
+      "polls": 0.0607111
+    },
+    "roi": {
+      "plus": 3.65258,
+      "now": 2.582,
+      "polls": 2.626026
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 79.38,
+            "forecast": 49.15999,
+            "hi": 53.35141,
+            "lo": 44.79749
+          },
+          "now": {
+            "winprob": 79.42,
+            "forecast": 48.93588,
+            "hi": 53.26427,
+            "lo": 44.54911
+          },
+          "polls": {
+            "winprob": 80.56,
+            "forecast": 49.27984,
+            "hi": 53.61464,
+            "lo": 44.71619
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 20.61,
+            "forecast": 44.54671,
+            "hi": 48.74883,
+            "lo": 40.24968
+          },
+          "now": {
+            "winprob": 20.57,
+            "forecast": 44.39073,
+            "hi": 48.60608,
+            "lo": 40.09384
+          },
+          "polls": {
+            "winprob": 19.439999999999998,
+            "forecast": 44.40037,
+            "hi": 48.66435,
+            "lo": 40.07053
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.01,
+            "forecast": 5.007823,
+            "hi": 8.554088,
+            "lo": 1.972214
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 5.39549,
+            "hi": 9.016661,
+            "lo": 2.284227
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 5.034111,
+            "hi": 8.631397,
+            "lo": 2.008018
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Clinton",
+        "model": "plus",
+        "party": "D",
+        "probability": 79.38,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Clinton",
+        "model": "polls",
+        "party": "D",
+        "probability": 80.56,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Clinton",
+        "model": "now",
+        "party": "D",
+        "probability": 79.42,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004840
+  },
+  {
+    "state": "WV",
+    "margin": {
+      "plus": {
+        "margin": -26.66073,
+        "hi": -17.43546,
+        "lo": -35.58334
+      },
+      "now": {
+        "margin": -27.10721,
+        "hi": -17.63435,
+        "lo": -36.53378
+      },
+      "polls": {
+        "margin": -26.51997,
+        "hi": -17.06707,
+        "lo": -35.94114
+      }
+    },
+    "tippingpoint": {
+      "plus": 3.13e-10,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "roi": {
+      "plus": 6.37e-08,
+      "now": 0.0,
+      "polls": 0.0
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.22,
+            "forecast": 33.74614,
+            "hi": 38.53704,
+            "lo": 29.06165
+          },
+          "now": {
+            "winprob": 0.13,
+            "forecast": 33.44484,
+            "hi": 38.40518,
+            "lo": 28.57162
+          },
+          "polls": {
+            "winprob": 0.3,
+            "forecast": 33.83984,
+            "hi": 38.79235,
+            "lo": 28.82508
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.78,
+            "forecast": 60.40687,
+            "hi": 65.55159,
+            "lo": 54.99349
+          },
+          "now": {
+            "winprob": 99.87,
+            "forecast": 60.55205,
+            "hi": 65.9165,
+            "lo": 55.0173
+          },
+          "polls": {
+            "winprob": 99.7,
+            "forecast": 60.3598,
+            "hi": 65.784,
+            "lo": 54.79232
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.0,
+            "forecast": 4.058006,
+            "hi": 7.554927,
+            "lo": 1.307218
+          },
+          "now": {
+            "winprob": 0.0,
+            "forecast": 4.221656,
+            "hi": 7.673253,
+            "lo": 1.405822
+          },
+          "polls": {
+            "winprob": 0.0,
+            "forecast": 4.011582,
+            "hi": 7.382718,
+            "lo": 1.284732
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.78,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.7,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.87,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004840
+  },
+  {
+    "state": "WY",
+    "margin": {
+      "plus": {
+        "margin": -36.50589,
+        "hi": -22.11125,
+        "lo": -50.49293
+      },
+      "now": {
+        "margin": -36.82003,
+        "hi": -22.15877,
+        "lo": -51.77912
+      },
+      "polls": {
+        "margin": -36.13929,
+        "hi": -21.13752,
+        "lo": -50.87355
+      }
+    },
+    "tippingpoint": {
+      "plus": 0.0,
+      "now": 5.18e-06,
+      "polls": 4.15e-05
+    },
+    "roi": {
+      "plus": 0.0,
+      "now": 0.0027593,
+      "polls": 0.0221345
+    },
+    "latest": {
+      "D": {
+        "party": "D",
+        "candidate": "Clinton",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.5499999999999999,
+            "forecast": 26.82611,
+            "hi": 34.17814,
+            "lo": 19.64924
+          },
+          "now": {
+            "winprob": 0.8099999999999999,
+            "forecast": 26.5174,
+            "hi": 34.18365,
+            "lo": 19.12981
+          },
+          "polls": {
+            "winprob": 0.8999999999999999,
+            "forecast": 27.05192,
+            "hi": 34.8312,
+            "lo": 19.5503
+          }
+        }
+      },
+      "R": {
+        "party": "R",
+        "candidate": "Trump",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 99.42999999999999,
+            "forecast": 63.332,
+            "hi": 71.6068,
+            "lo": 54.67717
+          },
+          "now": {
+            "winprob": 99.18,
+            "forecast": 63.33743,
+            "hi": 72.06097,
+            "lo": 54.44603
+          },
+          "polls": {
+            "winprob": 99.08,
+            "forecast": 63.19121,
+            "hi": 71.67374,
+            "lo": 54.23371
+          }
+        }
+      },
+      "L": {
+        "party": "L",
+        "candidate": "Johnson",
+        "date": "2016-11-01",
+        "models": {
+          "plus": {
+            "winprob": 0.02,
+            "forecast": 7.728147,
+            "hi": 13.37956,
+            "lo": 2.960182
+          },
+          "now": {
+            "winprob": 0.01,
+            "forecast": 8.036388,
+            "hi": 13.60825,
+            "lo": 3.210041
+          },
+          "polls": {
+            "winprob": 0.02,
+            "forecast": 7.643246,
+            "hi": 13.24372,
+            "lo": 2.947363
+          }
+        }
+      }
+    },
+    "sentences": {
+      "plus": {
+        "leader": "Trump",
+        "model": "plus",
+        "party": "R",
+        "probability": 99.42999999999999,
+        "state": "the presidency",
+        "tie": false
+      },
+      "polls": {
+        "leader": "Trump",
+        "model": "polls",
+        "party": "R",
+        "probability": 99.08,
+        "state": "the presidency",
+        "tie": false
+      },
+      "now": {
+        "leader": "Trump",
+        "model": "now",
+        "party": "R",
+        "probability": 99.18,
+        "state": "the presidency",
+        "tie": false
+      }
+    },
+    "latest_poll": 1478004840
+  }
+]

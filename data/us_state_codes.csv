@@ -1,0 +1,53 @@
+Name,Level,ISO,ANSI,ANSI_NUM,USPS,Abbr
+ United States of America,Federal state,"USA",US,0,,U.S.
+ Alabama,State,US-AL,AL,1,AL,Ala.
+ Alaska,State,US-AK,AK,2,AK,Alaska
+ Arizona,State,US-AZ,AZ,4,AZ,Ariz.
+ Arkansas,State,US-AR,AR,5,AR,Ark.
+ California,State,US-CA,CA,6,CA,Calif.
+ Colorado,State,US-CO,CO,8,CO,Colo.
+ Connecticut,State,US-CT,CT,9,CT,Conn.
+ Delaware,State,US-DE,DE,10,DE,Del.
+ District of Columbia,Federal district,US-DC,DC,11,DC,D.C.
+ Florida,State,US-FL,FL,12,FL,Fla.
+ Georgia,State,US-GA,GA,13,GA,Ga.
+ Hawaii,State,US-HI,HI,15,HI,Hawaii
+ Idaho,State,US-ID,ID,16,ID,Idaho
+ Illinois,State,US-IL,IL,17,IL,Ill.
+ Indiana,State,US-IN,IN,18,IN,Ind.
+ Iowa,State,US-IA,IA,19,IA,Iowa
+ Kansas,State,US-KS,KS,20,KS,Kan.
+ Kentucky,State (Commonwealth),US-KY,KY,21,KY,Ky.
+ Louisiana,State,US-LA,LA,22,LA,La.
+ Maine,State,US-ME,ME,23,ME,Maine
+ Maryland,State,US-MD,MD,24,MD,Md.
+ Massachusetts,State (Commonwealth),US-MA,MA,25,MA,Mass.
+ Michigan,State,US-MI,MI,26,MI,Mich.
+ Minnesota,State,US-MN,MN,27,MN,Minn.
+ Mississippi,State,US-MS,MS,28,MS,Miss.
+ Missouri,State,US-MO,MO,29,MO,Mo.
+ Montana,State,US-MT,MT,30,MT,Mont.
+ Nebraska,State,US-NE,NE,31,NE,Neb.
+ Nevada,State,US-NV,NV,32,NV,Nev.
+ New Hampshire,State,US-NH,NH,33,NH,N.H.
+ New Jersey,State,US-NJ,NJ,34,NJ,N.J.
+ New Mexico,State,US-NM,NM,35,NM,N.M.
+ New York,State,US-NY,NY,36,NY,N.Y.
+ North Carolina,State,US-NC,NC,37,NC,N.C.
+ North Dakota,State,US-ND,ND,38,ND,N.D.
+ Ohio,State,US-OH,OH,39,OH,Ohio
+ Oklahoma,State,US-OK,OK,40,OK,Okla.
+ Oregon,State,US-OR,OR,41,OR,Ore.
+ Pennsylvania,State (Commonwealth),US-PA,PA,42,PA,Pa.
+ Rhode Island,State,US-RI,RI,44,RI,R.I.
+ South Carolina,State,US-SC,SC,45,SC,S.C.
+ South Dakota,State,US-SD,SD,46,SD,S.D.
+ Tennessee,State,US-TN,TN,47,TN,Tenn.
+ Texas,State,US-TX,TX,48,TX,Texas
+ Utah,State,US-UT,UT,49,UT,Utah
+ Vermont,State,US-VT,VT,50,VT,Vt.
+ Virginia,State (Commonwealth),US-VA,VA,51,VA,Va.
+ Washington,State,US-WA,WA,53,WA,Wash.
+ West Virginia,State,US-WV,WV,54,WV,W.Va.
+ Wisconsin,State,US-WI,WI,55,WI,Wis.
+ Wyoming,State,US-WY,WY,56,WY,Wyo.
